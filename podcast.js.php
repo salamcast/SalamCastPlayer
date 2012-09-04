@@ -12,7 +12,7 @@ if (array_key_exists('PATH_INFO', $_SERVER)) {
             $.each(result, function(i, r) {
                 $('head').append('<link title="'+result[i].title+'" href="'+result[i].href+'" type="application/rss+xml" rel="alternate" />');
             });
-            $('#CastPlayer').holzcast({
+            $('#CastPlayer').SalamCast({
                 swf: "./js/",
                 jPlayerSolution: "flash, html",
                 debug: false

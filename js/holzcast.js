@@ -31,7 +31,7 @@
 
 (function($) {
  $.fn.extend({ 
-  holzcast: function(options) {
+  SalamCast: function(options) {
    var p = 0; // for playlist item uniqueness
    var o = 0; // opml unique ness
    var $id = $(this).attr('id');   
