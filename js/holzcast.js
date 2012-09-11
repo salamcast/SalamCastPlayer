@@ -113,8 +113,8 @@
       
 //################################################################################################
 // setMedia for jPlayer
-   var media = function(url) {
-    var e = ext(url);
+   var media = function(url, mime) {
+    var e = ext(url, mime);
     var c;
     switch (e) {
      case "m4v": c={ m4v: url, poster: opts.poster }; break;
@@ -125,7 +125,19 @@
    };
 //################################################################################################
 // returns the file extention from url to be used in jPlayer
-   var ext = function(url){
+   var ext = function(url, mime){
+    if (mime) {
+	switch (mime) {
+		case 'video/mpeg': o='m4v'; break;
+		case 'video/quicktime': o='m4v'; break;
+		case 'video/x-quicktime': o='m4v'; break;
+		case 'video/x-m4v': o='m4v'; break;
+		case 'video/mp4': o='m4v'; break;
+		case 'audio/mp4': o='m4a'; break;
+		case 'audio/mpeg': o='mp3'; break;
+	}
+	return o;
+    }
     if (url) {
      var e = url.substr(url.lastIndexOf('.'));
      var o = e;
@@ -285,7 +297,7 @@
 	$(cssId.item_info+$p+' > a').html(json.source).attr('href', json.source);
 	$p++;
     }
-    set_media(a);      
+    set_media(a, json.type);      
    };
    
    /* Change Playlist */  
@@ -565,8 +577,8 @@ xml tag				channel	item	where content appears in iTunes
    }
 
    /* Set Media to play */
-   var set_media = function(url) { 
-    $(cssId.jPlayer).jPlayer("setMedia", media(url)).jPlayer("play"); 
+   var set_media = function(url, mime) { 
+    $(cssId.jPlayer).jPlayer("setMedia", media(url, mime)).jPlayer("play"); 
     fix_jplayer();
    };
    
