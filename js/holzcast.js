@@ -317,6 +317,7 @@
     podcast_links($url);
     reset_ui();
     $.ajax({ type: 'GET', url: $url, dataType: 'xml',  success: function(d){
+      var chan;
       $(d).find('channel').each(function(xml){
 	var c = jQuery(this);
 	var $c=0;
@@ -341,7 +342,7 @@ xml tag			channel	item	where content appears in iTunes
 <itunes:subtitle>	Y	Y	Description column
 <itunes:summary>	Y	Y	when the "circled i" in Description column is clicked
 */
-	var chan = {
+	chan = {
 	 title: c.find('title').first().text(),
  	 link:c.find('link').first().text(),
 	 copyright: c.find('copyright').first().text(),
@@ -511,7 +512,7 @@ xml tag				channel	item	where content appears in iTunes
 <itunes:summary>		Y	Y	when the "circled i" in Description column is clicked
 */
        var item_info= { // 
-	title: $item.find('title').text(),
+	title: $item.find('title').text().replace(chan.title,'').replace(chan.title.replace('.', ''),''),
 	pubdate: $item.find('pubDate').text(),
 	author: $item.find('*').ns_filter(opts.itunes, 'author').first().text(),
 	block: 	$item.find('*').ns_filter(opts.itunes, 'block').first().text(),
@@ -532,6 +533,7 @@ xml tag				channel	item	where content appears in iTunes
 	comments: $item.find('comments').text(),
 	source: $item.find('source').text()
        };
+       
        
        if (! item_info.img) {
 	item_info.img=$item.find('image').find('url').text();

@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+<channel>
+<itunes:new-feed-url>http://feeds.feedburner.com/NASAScienceCasts</itunes:new-feed-url>
+<title>NASA ScienceCasts</title>
+
+<link>http://sciencecasts.nasa.gov</link>
+<description>NASA Science news is too exciting for plain text. Educational "ScienceCast" videos are fun, lively, entertaining--and anything but plain. Join us for a new episode every week as we look into the science behind discoveries on Earth, the Solar System, and beyond...</description>
+<lastBuildDate>Thu, 06 Sep 2012 13:00:00 EDT</lastBuildDate>
+<language>en-us</language>
+<sy:updatePeriod>hourly</sy:updatePeriod>
+<sy:updateFrequency>1</sy:updateFrequency>
+<copyright>no copyright</copyright>
+<managingEditor>michael.brody-1@nasa.gov (Michael Brody)</managingEditor>
+<itunes:subtitle>NASA Science news is too exciting for plain text. Educational "ScienceCast" videos are fun, lively, entertaining--anything but plain. Join us for a new episode weekly as we look into the science behind discoveries on Earth, the Solar System, and beyond...</itunes:subtitle>
+<itunes:summary>NASA Science news is too exciting for plain text. Educational "ScienceCast" videos are fun, lively, entertaining--anything but plain. Join us for a new episode weekly as we look into the science behind discoveries on Earth, the Solar System, and beyond...</itunes:summary>
+<itunes:keywords>NASA,NASA,Science,Science,National,Aeronautics,and,Space,Administration,ScienceCasts,SMD,Science,Mission,Directorate,Science,NASA,News,Science,News</itunes:keywords>
+
+<itunes:author>NASA Science</itunes:author>
+
+<itunes:block>no</itunes:block>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/ScienceCasts_600x600.jpg" />
+<image>
+	<url>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/ScienceCasts_600x600.jpg</url>
+	<title>NASA ScienceCasts</title>
+	<link>http://sciencecasts.nasa.gov</link>
+</image>
+
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/NasaSciencecasts" /><feedburner:info uri="nasasciencecasts" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>no copyright</media:copyright><media:thumbnail url="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/ScienceCasts_600x600.jpg" /><media:keywords>NASA,NASA,Science,Science,National,Aeronautics,and,Space,Administration,ScienceCasts,SMD,Science,Mission,Directorate,Science,NASA,News,Science,News</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Science &amp; Medicine/Natural Sciences</media:category><itunes:owner><itunes:email>michael.brody-1@nasa.gov</itunes:email><itunes:name>NASA Science</itunes:name></itunes:owner><itunes:category text="Science &amp; Medicine"><itunes:category text="Natural Sciences" /></itunes:category><feedburner:feedFlare href="http://www.podnova.com/add.srf?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.podnova.com/img_chicklet_podnova.gif">Subscribe with Podnova</feedburner:feedFlare><feedburner:feedFlare href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.newsgator.com/images/ngsub1.gif">Subscribe with NewsGator</feedburner:feedFlare><feedburner:feedFlare href="http://www.netvibes.com/subscribe.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.netvibes.com/img/add2netvibes.gif">Subscribe with Netvibes</feedburner:feedFlare><feedburner:feedFlare href="http://www.pageflakes.com/subscribe.aspx?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif">Subscribe with Pageflakes</feedburner:feedFlare><feedburner:feedFlare href="http://add.my.yahoo.com/rss?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif">Subscribe with My Yahoo!</feedburner:feedFlare><feedburner:feedFlare href="http://odeo.com/listen/subscribe?feed=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://odeo.com/img/badge-channel-black.gif">Subscribe with ODEO</feedburner:feedFlare><feedburner:feedFlare href="http://fusion.google.com/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://buttons.googlesyndication.com/fusion/add.gif">Subscribe with Google</feedburner:feedFlare><feedburner:feedFlare href="http://www.plusmo.com/add?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://plusmo.com/res/graphics/fbplusmo.gif">Subscribe with Plusmo</feedburner:feedFlare><feedburner:feedFlare href="http://www.thefreedictionary.com/_/hp/AddRSS.aspx?http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://img.tfd.com/hp/addToTheFreeDictionary.gif">Subscribe with The Free Dictionary</feedburner:feedFlare><feedburner:feedFlare href="http://www.bitty.com/manual/?contenttype=rssfeed&amp;contentvalue=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.bitty.com/img/bittychicklet_91x17.gif">Subscribe with Bitty Browser</feedburner:feedFlare><feedburner:feedFlare href="http://www.live.com/?add=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://tkfiles.storage.msn.com/x1piYkpqHC_35nIp1gLE68-wvzLZO8iXl_JMledmJQXP-XTBOLfmQv4zhj4MhcWEJh_GtoBIiAl1Mjh-ndp9k47If7hTaFno0mxW9_i3p_5qQw">Subscribe with Live.com</feedburner:feedFlare><feedburner:feedFlare href="http://mix.excite.eu/add?feedurl=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://image.excite.co.uk/mix/addtomix.gif">Subscribe with Excite MIX</feedburner:feedFlare><feedburner:feedFlare href="http://www.webwag.com/wwgthis.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.webwag.com/images/wwgthis.gif">Subscribe with Webwag</feedburner:feedFlare><feedburner:feedFlare href="http://www.podcastready.com/oneclick_bookmark.php?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.podcastready.com/images/podcastready_button.gif">Subscribe with Podcast Ready</feedburner:feedFlare><feedburner:feedFlare href="http://www.wikio.com/subscribe?url=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.wikio.com/shared/img/add2wikio.gif">Subscribe with Wikio</feedburner:feedFlare><feedburner:feedFlare href="http://www.dailyrotation.com/index.php?feed=http%3A%2F%2Ffeeds.feedburner.com%2FNasaSciencecasts" src="http://www.dailyrotation.com/rss-dr2.gif">Subscribe with Daily Rotation</feedburner:feedFlare><item>
+<title>ScienceCast 77: Weird Planets</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/dXW4Bfzo0R8/77_weirdPlanets.m4v</link>
+
+<pubDate>Thu, 06 Sep 2012 13:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Once, astronomers thought planets couldn't form around binary stars. Now Kepler has found a whole system of planers orbiting a double star. This finding shows that planetary systems are weirder and more abundant than previously thought.</itunes:subtitle>
+<itunes:summary>Once, astronomers thought planets couldn't form around binary stars. Now Kepler has found a whole system of planers orbiting a double star. This finding shows that planetary systems are weirder and more abundant than previously thought.</itunes:summary>
+<itunes:duration>04:28</itunes:duration>
+<itunes:keywords>Kepler, exoplanets, astrobiology, double stars, alien life</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/77_WeirdPlanets-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/77_weirdPlanets.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/dXW4Bfzo0R8/77_weirdPlanets.m4v" fileSize="116730618" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/dXW4Bfzo0R8" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/77_weirdPlanets.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/dXW4Bfzo0R8/77_weirdPlanets.m4v" length="116730618" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/77_weirdPlanets.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 76: The Radiation Belt Storm Probes</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/1TGcZs8ijgg/76_RBSP.m4v</link>
+
+<pubDate>Thu, 30 Aug 2012 10:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>This morning NASA launched two heavily-shielded spacecraft directly into the Van Allen Belts. The Radiation Belt Storm Probes are on a two-year mission to study the Van Allen Belts and to unravel the mystery of their unpredictability.</itunes:subtitle>
+<itunes:summary>This morning NASA launched two heavily-shielded spacecraft directly into the Van Allen Belts. The Radiation Belt Storm Probes are on a two-year mission to study the Van Allen Belts and to unravel the mystery of their unpredictability.</itunes:summary>
+<itunes:duration>04:28</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Blue Moon, full Moon, volcano, forest fires, Elvis</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/76_RBSP-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/76_RBSP.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1TGcZs8ijgg/76_RBSP.m4v" fileSize="73545122" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/1TGcZs8ijgg" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/76_RBSP.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1TGcZs8ijgg/76_RBSP.m4v" length="73545122" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/76_RBSP.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 75: Watch Out For The Blue Moon</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/vmNtq15ntHo/75_BlueMoon.m4v</link>
+
+<pubDate>Wed, 29 Aug 2012 20:15:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The second full Moon of August--a "Blue Moon"--is just around the corner. It will probably look just like any other full Moon but, on rare occasions, the Moon really does turn blue. Could it happen this month?</itunes:subtitle>
+<itunes:summary>The second full Moon of August--a "Blue Moon"--is just around the corner. It will probably look just like any other full Moon but, on rare occasions, the Moon really does turn blue. Could it happen this month?</itunes:summary>
+<itunes:duration>03:36</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, radiation, Van Allen Belts, heliophysics, space weather, solar flares, sunspots, geomagnetic storms</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/75_BlueMoon-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/75_BlueMoon.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vmNtq15ntHo/75_BlueMoon.m4v" fileSize="58438746" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/vmNtq15ntHo" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/75_BlueMoon.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vmNtq15ntHo/75_BlueMoon.m4v" length="58438746" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/75_BlueMoon.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 74: Where Will Curiosity Go First?</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/P4-_MiBg1tk/74_WhereWillCuriosityGo.m4v</link>
+
+<pubDate>Fri, 17 Aug 2012 15:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Curiosity is safe on Mars and ready to roll. In this video from Science@NASA, project scientist John Grotzinger discusses where the rover might go first.</itunes:subtitle>
+<itunes:summary>Curiosity is safe on Mars and ready to roll. In this video from Science@NASA, project scientist John Grotzinger discusses where the rover might go first.</itunes:summary>
+<itunes:duration>03:45</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Mars, rover, Curiosity, Mt. Sharp, Gale Crater</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/74_WhereWillCuriosityGo-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/74_WhereWillCuriosityGo.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/P4-_MiBg1tk/74_WhereWillCuriosityGo.m4v" fileSize="61687839" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/P4-_MiBg1tk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/74_WhereWillCuriosityGo.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/P4-_MiBg1tk/74_WhereWillCuriosityGo.m4v" length="61687839" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/74_WhereWillCuriosityGo.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 73: 2012 Perseid Meteor Shower</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/RCdfGNriXww/73_2012PerseidShower.m4v</link>
+
+<pubDate>Thu, 09 Aug 2012 15:15:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The Perseid meteor shower is underway. There's more to see than meteors, however, when the shower peaks on August 11th through 13th. The brightest planets in the solar system are lining up in the middle of the display.</itunes:subtitle>
+<itunes:summary>The Perseid meteor shower is underway. There's more to see than meteors, however, when the shower peaks on August 11th through 13th. The brightest planets in the solar system are lining up in the middle of the display.</itunes:summary>
+<itunes:duration>03:15</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, meteors, Perseids, Venus, Jupiter, planetary alignment, comet, Swift-Tuttle</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/73_2012PerseidShower-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/73_2012PerseidShower.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RCdfGNriXww/73_2012PerseidShower.m4v" fileSize="67462204" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/RCdfGNriXww" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/73_2012PerseidShower.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RCdfGNriXww/73_2012PerseidShower.m4v" length="67462204" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/73_2012PerseidShower.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 72: Meteor Smoke Makes Strange Clouds</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/mYuFGbGXkvw/72_MeteorSmoke.m4v</link>
+
+<pubDate>Thu, 02 Aug 2012 16:15:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A key ingredient of Earth's strangest clouds does not come from Earth. New data from NASA's AIM spacecraft proves that "meteor smoke" is essential to the formation of noctilucent clouds.</itunes:subtitle>
+<itunes:summary>A key ingredient of Earth's strangest clouds does not come from Earth. New data from NASA's AIM spacecraft proves that "meteor smoke" is essential to the formation of noctilucent clouds.</itunes:summary>
+<itunes:duration>04:06</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, climate change, noctilucent clouds, methane, meteor, NLC</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/72_MeteorSmoke-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/72_MeteorSmoke.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/mYuFGbGXkvw/72_MeteorSmoke.m4v" fileSize="70391569" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/mYuFGbGXkvw" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/72_MeteorSmoke.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/mYuFGbGXkvw/72_MeteorSmoke.m4v" length="70391569" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/72_MeteorSmoke.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 71: Mars Landing Sky Show</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/QooYslvbaSU/71_MarsLandingSkyShow.m4v</link>
+
+<pubDate>Fri, 27 Jul 2012 07:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On the same night Curiosity lands on Mars, a "Martian Triangle" will appear in sunset skies of Earth.</itunes:subtitle>
+<itunes:summary>On the same night Curiosity lands on Mars, a "Martian Triangle" will appear in sunset skies of Earth.</itunes:summary>
+<itunes:duration>04:06</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Mars, Red Planet, Curiosity, Saturn, Spica, rover</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/71_MarsLandingSkyShow-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/71_MarsLandingSkyShow.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/QooYslvbaSU/71_MarsLandingSkyShow.m4v" fileSize="67353718" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/QooYslvbaSU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/71_MarsLandingSkyShow.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/QooYslvbaSU/71_MarsLandingSkyShow.m4v" length="67353718" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/71_MarsLandingSkyShow.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 70: A Taste of Solar Maximum</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/qaBfvtIhqEU/70_TasteOfSolarMax.m4v</link>
+
+<pubDate>Thu, 19 Jul 2012 15:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>This month sky watchers got a taste of things to come when a powerful flare sparked Northern Lights over the United States.</itunes:subtitle>
+<itunes:summary>This month sky watchers got a taste of things to come when a powerful flare sparked Northern Lights over the United States.</itunes:summary>
+<itunes:duration>04:21</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, space weather, solar flare, aurora borealis, aurora australis, Northern Lights, Southern Lights, heliophysics</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/70_TasteOfSolarMax-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/70_TasteOfSolarMax.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/qaBfvtIhqEU/70_TasteOfSolarMax.m4v" fileSize="71406654" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/qaBfvtIhqEU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/70_TasteOfSolarMax.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/qaBfvtIhqEU/70_TasteOfSolarMax.m4v" length="71406654" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/70_TasteOfSolarMax.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 69: The First Extraterrestrial Marathon</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/TNJkz8CsHKs/69_ETMarathon.m4v</link>
+
+<pubDate>Thu, 12 Jul 2012 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Mars rover Opportunity is still running 8 years after landing. The tireless robot is about to complete a full marathon!</itunes:subtitle>
+<itunes:summary>Mars rover Opportunity is still running 8 years after landing. The tireless robot is about to complete a full marathon!</itunes:summary>
+<itunes:duration>04:29</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Mars, rover, Opportunity, Curiosity, Red Planet, marathon, robot</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/69_ETMarathon-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/69_ETMarathon.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/TNJkz8CsHKs/69_ETMarathon.m4v" fileSize="74467592" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/TNJkz8CsHKs" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/69_ETMarathon.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/TNJkz8CsHKs/69_ETMarathon.m4v" length="74467592" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/69_ETMarathon.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 68: A Good Reason to Wake Up at Dawn</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/ugvmDUYbuVA/68_WakeUpAtDawn.m4v</link>
+
+<pubDate>Tue, 03 Jul 2012 12:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The brightest planets in the solar system are converging for a beautiful sunrise sky show in early July.</itunes:subtitle>
+<itunes:summary>The brightest planets in the solar system are converging for a beautiful sunrise sky show in early July.</itunes:summary>
+<itunes:duration>02:21</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Jupiter, Venus, crescent Moon, planetary alignment, conjunction, 4th of July</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/68_WakeUpAtDawn-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/68_WakeUpAtDawn.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ugvmDUYbuVA/68_WakeUpAtDawn.m4v" fileSize="38547352" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/ugvmDUYbuVA" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/68_WakeUpAtDawn.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ugvmDUYbuVA/68_WakeUpAtDawn.m4v" length="38547352" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/68_WakeUpAtDawn.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 67: Hidden Magnetic Portals Around Earth</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/5MiJdH8_lZY/67_MagneticPortal.m4v</link>
+
+<pubDate>Thu, 28 Jun 2012 21:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A NASA-sponsored researcher at the University of Iowa has developed a way for spacecraft to hunt down hidden magnetic portals in the vicinity of Earth.</itunes:subtitle>
+<itunes:summary>A NASA-sponsored researcher at the University of Iowa has developed a way for spacecraft to hunt down hidden magnetic portals in the vicinity of Earth.</itunes:summary>
+<itunes:duration>03:54</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, heliophysics, magnetic storms, solar wind, MMS, space weather, solar flares, reconnection</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/67_MagneticPortal-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/67_MagneticPortal.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/5MiJdH8_lZY/67_MagneticPortal.m4v" fileSize="77395078" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/5MiJdH8_lZY" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/67_MagneticPortal.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/5MiJdH8_lZY/67_MagneticPortal.m4v" length="77395078" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/67_MagneticPortal.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 66: Voyager 1 at the Final Frontier</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/wcDW0IMkRSQ/66_FinalFrontier.m4v</link>
+
+<pubDate>Thu, 21 Jun 2012 19:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>At the edge of the solar system, Voyager 1 is reporting a sharp increase in cosmic rays that could herald the spacecraft's long-awaited entry into interstellar space.</itunes:subtitle>
+<itunes:summary>At the edge of the solar system, Voyager 1 is reporting a sharp increase in cosmic rays that could herald the spacecraft's long-awaited entry into interstellar space.</itunes:summary>
+<itunes:duration>03:47</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Voyager, interstellar space, solar system, heliosphere</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/66_FinalFrontier-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/66_FinalFrontier.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/wcDW0IMkRSQ/66_FinalFrontier.m4v" fileSize="61983023" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/wcDW0IMkRSQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/66_FinalFrontier.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/wcDW0IMkRSQ/66_FinalFrontier.m4v" length="61983023" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/66_FinalFrontier.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 65: Why Won't the Supernova Explode?</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/ZJZ29Lk0f0w/65_NuStar.m4v</link>
+
+<pubDate>Fri, 15 Jun 2012 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A question has been troubling astronomers: Why won't the supernova explode? NASA has launched a new observatory named "NuSTAR" to seek out the missing physics of exploding stars.</itunes:subtitle>
+<itunes:summary>A question has been troubling astronomers: Why won't the supernova explode? NASA has launched a new observatory named "NuSTAR" to seek out the missing physics of exploding stars.</itunes:summary>
+<itunes:duration>04:31</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, NuSTAR, black holes, supernova, x-ray astronomy, space telescope</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/65_NuStar-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/65_NuStar.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ZJZ29Lk0f0w/65_NuStar.m4v" fileSize="73723637" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/ZJZ29Lk0f0w" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/65_NuStar.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ZJZ29Lk0f0w/65_NuStar.m4v" length="73723637" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/65_NuStar.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 64: Andromeda vs. the Milky Way: Astronomers Predict a Titanic Collision</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/WW0KTROamsE/64_TitanicCollision.m4v</link>
+
+<pubDate>Fri, 08 Jun 2012 18:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Astronomers no longer have any doubt: Our Milky Way Galaxy will have a head-on collision with Andromeda. Fortunately, they say, Earth will survive when the two great star systems meet 4 billions years from now.</itunes:subtitle>
+<itunes:summary>Astronomers no longer have any doubt: Our Milky Way Galaxy will have a head-on collision with Andromeda. Fortunately, they say, Earth will survive when the two great star systems meet 4 billions years from now.</itunes:summary>
+<itunes:duration>03:27</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Milky Way, Andromeda, Titanic, Catastrophe</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/64_TitanicCollision-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/64_TitanicCollision.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/WW0KTROamsE/64_TitanicCollision.m4v" fileSize="68638399" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/WW0KTROamsE" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/64_TitanicCollision.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/WW0KTROamsE/64_TitanicCollision.m4v" length="68638399" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/64_TitanicCollision.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 63: ISS Transit of Venus</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/Fr5XqLd--hQ/63_ISSVenusTransit.m4v</link>
+
+<pubDate>Thu, 31 May 2012 15:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On Monday, June 4th, the Moon will pass through the shadow of Earth, producing a partial lunar eclipse visible across the Pacific from China to the United States.</itunes:subtitle>
+<itunes:summary>On Monday, June 4th, the Moon will pass through the shadow of Earth, producing a partial lunar eclipse visible across the Pacific from China to the United States.</itunes:summary>
+<itunes:duration>03:46</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, lunar eclipse, Moon, transit, Moon illusion</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/63_ISSVenusTransit-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/63_ISSVenusTransit.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Fr5XqLd--hQ/63_ISSVenusTransit.m4v" fileSize="62089478" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/Fr5XqLd--hQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/63_ISSVenusTransit.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Fr5XqLd--hQ/63_ISSVenusTransit.m4v" length="62089478" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/63_ISSVenusTransit.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 62: Partial Eclipse of the Strawberry Moon</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/PWQHa5P8A4E/62-EclipseStrawberryMoon.m4v</link>
+
+<pubDate>Thu, 24 May 2012 15:40:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On Monday, June 4th, the Moon will pass through the shadow of Earth, producing a partial lunar eclipse visible across the Pacific from China to the United States.</itunes:subtitle>
+<itunes:summary>On Monday, June 4th, the Moon will pass through the shadow of Earth, producing a partial lunar eclipse visible across the Pacific from China to the United States.</itunes:summary>
+<itunes:duration>02:39</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, lunar eclipse, Moon, transit, Moon illusion</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/62-EclipseStrawberryMoon-Poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/62-EclipseStrawberryMoon.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/PWQHa5P8A4E/62-EclipseStrawberryMoon.m4v" fileSize="43587688" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/PWQHa5P8A4E" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/62-EclipseStrawberryMoon.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/PWQHa5P8A4E/62-EclipseStrawberryMoon.m4v" length="43587688" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/62-EclipseStrawberryMoon.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 61: The 2012 Transit of Venus</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/BEcOj0J1H3M/61_2012VenusTransit.m4v</link>
+
+<pubDate>Thu, 17 May 2012 15:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>It won't happen again until December 2117. On June 5th, 2012, Venus will transit the face of the sun in an event of both historical and observational importance.</itunes:subtitle>
+<itunes:summary>It won't happen again until December 2117. On June 5th, 2012, Venus will transit the face of the sun in an event of both historical and observational importance.</itunes:summary>
+<itunes:duration>03:53</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Transit of Venus, solar filter, eclipse, South Pacific</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/61_2012VenusTransit-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/61_2012VenusTransit.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/BEcOj0J1H3M/61_2012VenusTransit.m4v" fileSize="63241992" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/BEcOj0J1H3M" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/61_2012VenusTransit.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/BEcOj0J1H3M/61_2012VenusTransit.m4v" length="63241992" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/61_2012VenusTransit.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 60: Don't Judge a Moon by its Cover</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/6vg_kTiMKEU/60_DontJudgeMoon.m4v</link>
+
+<pubDate>Thu, 10 May 2012 15:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Superficially, Saturn's moon Phoebe doesn't look much like a planet, but on the inside, the little gray moon has a lot in common with worlds like Earth.</itunes:subtitle>
+<itunes:summary>Superficially, Saturn's moon Phoebe doesn't look much like a planet, but on the inside, the little gray moon has a lot in common with worlds like Earth.</itunes:summary>
+<itunes:duration>03:48</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Saturn, planet, moon, Phoebe, Cassini</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/60_DontJudgeMoon-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/60_DontJudgeMoon.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6vg_kTiMKEU/60_DontJudgeMoon.m4v" fileSize="62760698" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/6vg_kTiMKEU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/60_DontJudgeMoon.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6vg_kTiMKEU/60_DontJudgeMoon.m4v" length="62760698" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/60_DontJudgeMoon.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 59: A Star Turns Inside Out</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/jFhuS_7_zmM/59_StarStuff.m4v</link>
+
+<pubDate>Thu, 3 May 2012 16:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Chandra X-ray Observatory has mapped the debris of a supernova and discovered that the explosion may have turned the original star inside out.</itunes:subtitle>
+<itunes:summary>NASA's Chandra X-ray Observatory has mapped the debris of a supernova and discovered that the explosion may have turned the original star inside out.</itunes:summary>
+<itunes:duration>03:52</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, supernova, Chandra, X-ray astronomy, origins of life, Carl Sagan</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/59_StarStuff-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/59_StarStuff.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/jFhuS_7_zmM/59_StarStuff.m4v" fileSize="64025083" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/jFhuS_7_zmM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/59_StarStuff.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/jFhuS_7_zmM/59_StarStuff.m4v" length="64025083" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/59_StarStuff.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 58: Amateur Scientists Discover Galactic Bubbles</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/dLmEpnYjfLk/58_BubblyMilkyWay.m4v</link>
+
+<pubDate>Fri, 27 Apr 2012 11:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Amateur scientists have made a effervescent discovery: The Milky Way Galaxy is bubbling like a glass of champagne.</itunes:subtitle>
+<itunes:summary>Amateur scientists have made a effervescent discovery: The Milky Way Galaxy is bubbling like a glass of champagne.</itunes:summary>
+<itunes:duration>03:26</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Spitzer, space telescope, infrared astronomy, star formation, Milky Way</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/58_BubblyMilkyWay-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/58_BubblyMilkyWay.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/dLmEpnYjfLk/58_BubblyMilkyWay.m4v" fileSize="56285095" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/dLmEpnYjfLk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/58_BubblyMilkyWay.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/dLmEpnYjfLk/58_BubblyMilkyWay.m4v" length="56285095" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/58_BubblyMilkyWay.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 57: Here Comes Solar Maximum</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/7MFvjDqPO5o/57_SolarMax.m4v</link>
+
+<pubDate>Thu, 19 Apr 2012 14:05:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Solar storms and Northern Lights are in the offing as the sun approaches Solar Max, expected in mid-to-late 2013. Recently, Earth's defenses were tested by a volley of strong eruptions.</itunes:subtitle>
+<itunes:summary>Solar storms and Northern Lights are in the offing as the sun approaches Solar Max, expected in mid-to-late 2013. Recently, Earth's defenses were tested by a volley of strong eruptions.</itunes:summary>
+<itunes:duration>03:36</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, heliophysics, solar flares, CME, auroras, Northern Lights, GPS, Mayan calendar</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/57_SolarMax-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/57_SolarMax.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7MFvjDqPO5o/57_SolarMax.m4v" fileSize="58935710" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/7MFvjDqPO5o" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/57_SolarMax.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7MFvjDqPO5o/57_SolarMax.m4v" length="58935710" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/57_SolarMax.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 56: April is the Cruelest Month</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/uUyw-J6Ae2c/56_AprilCruelestMonth.m4v</link>
+
+<pubDate>Thu, 12 Apr 2012 15:15:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>One year after the historic tornado outbreak of April 27-28, 2011, researchers say they've learned a few things about deadly twisters. This week's ScienceCast presents some of the scientific findings that emerged from the swath of destruction.</itunes:subtitle>
+<itunes:summary>One year after the historic tornado outbreak of April 27-28, 2011, researchers say they've learned a few things about deadly twisters. This week's ScienceCast presents some of the scientific findings that emerged from the swath of destruction.</itunes:summary>
+<itunes:duration>03:43</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, tornadoes, super cell thunderstorms, severe weather</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/56_AprilCruelestMonth-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/56_AprilCruelestMonth.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/uUyw-J6Ae2c/56_AprilCruelestMonth.m4v" fileSize="61064028" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/uUyw-J6Ae2c" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/56_AprilCruelestMonth.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/uUyw-J6Ae2c/56_AprilCruelestMonth.m4v" length="61064028" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/56_AprilCruelestMonth.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 55: A Wonderful Night in April</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/iY6lkydQ8Ag/55_WonderfulNight.m4v</link>
+
+<pubDate>Thu, 05 Apr 2012 15:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>If you have to chose just one night in April to go out and look at the stars, NASA scientists say it should be April 21st. This week's ScienceCast explains what makes that one night so special.</itunes:subtitle>
+<itunes:summary>If you have to chose just one night in April to go out and look at the stars, NASA scientists say it should be April 21st. This week's ScienceCast explains what makes that one night so special.</itunes:summary>
+<itunes:duration>03:11</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Lyrid meteor shower, Mars, Saturn, Comet Thatcher, new Moon</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/55_WonderfulNight-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/55_WonderfulNight.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/iY6lkydQ8Ag/55_WonderfulNight.m4v" fileSize="51947109" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/iY6lkydQ8Ag" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/55_WonderfulNight.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/iY6lkydQ8Ag/55_WonderfulNight.m4v" length="51947109" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/55_WonderfulNight.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 54: Getting to Know the Goldilocks Planet</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/vaNNzTwkdnc/54_GoldilocksPlanet.m4v</link>
+
+<pubDate>Thu, 29 Mar 2012 15:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Kepler spacecraft is discovering a veritable avalanche of alien worlds. It seems to be just a matter of time before Kepler finds what astronomers are really looking for: an Earth-like planet orbiting its star in the "Goldilocks zone".</itunes:subtitle>
+<itunes:summary>NASA's Kepler spacecraft is discovering a veritable avalanche of alien worlds. It seems to be just a matter of time before Kepler finds what astronomers are really looking for: an Earth-like planet orbiting its star in the "Goldilocks zone".</itunes:summary>
+<itunes:duration>03:59</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Goldilocks, Kepler, exoplanet biology, transit spectroscopy, FINESSE, TESS</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/54_GoldilocksPlanet-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/54_GoldilocksPlanet.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vaNNzTwkdnc/54_GoldilocksPlanet.m4v" fileSize="66495366" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/vaNNzTwkdnc" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/54_GoldilocksPlanet.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vaNNzTwkdnc/54_GoldilocksPlanet.m4v" length="66495366" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/54_GoldilocksPlanet.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 53: The Surprising Power of a Solar Storm</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/2rpcwAPI6dY/53_PowerOfSolarStorm.m4v</link>
+
+<pubDate>Thu, 22 Mar 2012 15:40:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A flurry of solar activity in early March dumped enough heat in Earth's upper atmosphere to power every residence in New York City for two years. The heat has since dissipated, but there's more to come as the solar cycle intensifies.</itunes:subtitle>
+<itunes:summary>A flurry of solar activity in early March dumped enough heat in Earth's upper atmosphere to power every residence in New York City for two years. The heat has since dissipated, but there's more to come as the solar cycle intensifies.</itunes:summary>
+<itunes:duration>04:03</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, space weather, solar flares, coronal mass ejections, thermosphere, SABER, TIMED, New York</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/53_PowerOfSolarStorm-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/53_PowerOfSolarStorm.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2rpcwAPI6dY/53_PowerOfSolarStorm.m4v" fileSize="66190410" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/2rpcwAPI6dY" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/53_PowerOfSolarStorm.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2rpcwAPI6dY/53_PowerOfSolarStorm.m4v" length="66190410" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/53_PowerOfSolarStorm.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 52: Mysterious Objects at the Edge of the Electromagnetic Spectrum</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/0dx_kV13Fs8/52_MysteriousObjects.m4v</link>
+
+<pubDate>Thu, 15 Mar 2012 16:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Fermi Gamma-Ray Telescope is finding hundreds of new objects at the very edge of the electromagnetic spectrum. Many of them have one thing in common: Astronomers have no idea what they are.</itunes:subtitle>
+<itunes:summary>NASA's Fermi Gamma-Ray Telescope is finding hundreds of new objects at the very edge of the electromagnetic spectrum. Many of them have one thing in common: Astronomers have no idea what they are.</itunes:summary>
+<itunes:duration>03:28</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, electromagnetic spectrum, high energy astronomy, gamma rays, X-rays, Fermi, black holes, pulsars</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/52_MysteriousObjects-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/52_MysteriousObjects.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/0dx_kV13Fs8/52_MysteriousObjects.m4v" fileSize="57850613" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/0dx_kV13Fs8" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/52_MysteriousObjects.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/0dx_kV13Fs8/52_MysteriousObjects.m4v" length="57850613" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/52_MysteriousObjects.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 51: The Super Moon of May 2012</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/OVSNs55WUHM/51_SuperMoon2012.m4v</link>
+
+<pubDate>Fri, 09 Mar 2012 15:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Another "super-Moon" is in the offing. The perigee full Moon in May will be as much as 14% bigger and 30% brighter than other full moons of 2012.</itunes:subtitle>
+<itunes:summary>Another "super-Moon" is in the offing. The perigee full Moon in May will be as much as 14% bigger and 30% brighter than other full moons of 2012.</itunes:summary>
+<itunes:duration>03:24</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, full Moon, tides, perigee, moon myths, moon illusion, howling dogs, crime</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/51_SuperMoon2012-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/51_SuperMoon2012.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/OVSNs55WUHM/51_SuperMoon2012.m4v" fileSize="56893977" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/OVSNs55WUHM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/51_SuperMoon2012.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/OVSNs55WUHM/51_SuperMoon2012.m4v" length="56893977" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/51_SuperMoon2012.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 50: Auroras Underfoot</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/GTR00J9wDCM/50_AurorasUnderfoot.m4v</link>
+
+<pubDate>Thu, 01 Mar 2012 15:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Lately, the International Space Station has been flying through geomagnetic storms, giving astronauts an close-up view of the aurora borealis just outside their windows.</itunes:subtitle>
+<itunes:summary>Lately, the International Space Station has been flying through geomagnetic storms, giving astronauts an close-up view of the aurora borealis just outside their windows.</itunes:summary>
+<itunes:duration>03:22</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, auroras, Northern Lights, Southern Lights, ISS, Don Pettit, space weather, solar activity, geomagnetic storms</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/50_AurorasUnderfoot-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/50_AurorasUnderfoot.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/GTR00J9wDCM/50_AurorasUnderfoot.m4v" fileSize="56210369" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/GTR00J9wDCM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/50_AurorasUnderfoot.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/GTR00J9wDCM/50_AurorasUnderfoot.m4v" length="56210369" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/50_AurorasUnderfoot.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 49: Curiosity, The Stunt Double</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/IM09SOef5T0/49_CuriosityTheStuntDouble.m4v</link>
+
+<pubDate>Thu, 23 Feb 2012 12:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>En route to the Red Planet, Mars rover Curiosity is serving as a 'stunt double' for human astronauts.</itunes:subtitle>
+<itunes:summary>En route to the Red Planet, Mars rover Curiosity is serving as a 'stunt double' for human astronauts.</itunes:summary>
+<itunes:duration>03:29</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Mars, rover, Curiosity, radiation storm, space weather, solar activity</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/49_CuriosityTheStuntDouble-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/49_CuriosityTheStuntDouble.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/IM09SOef5T0/49_CuriosityTheStuntDouble.m4v" fileSize="58531357" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/IM09SOef5T0" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/49_CuriosityTheStuntDouble.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/IM09SOef5T0/49_CuriosityTheStuntDouble.m4v" length="58531357" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/49_CuriosityTheStuntDouble.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 48: An Alignment of Planets</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/iKJoo_cGL6I/48_WinterPlanets.m4v</link>
+
+<pubDate>Thu, 16 Feb 2012 14:25:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The brightest planets in the night sky are aligning for a must-see show in late February and March 2012. Start looking tonight!</itunes:subtitle>
+<itunes:summary>The brightest planets in the night sky are aligning for a must-see show in late February and March 2012. Start looking tonight!</itunes:summary>
+<itunes:duration>03:32</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, planetary alignment, backyard astronomy, Venus, Jupiter, Moon, fovea</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/48_WinterPlanets-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/48_WinterPlanets.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/iKJoo_cGL6I/48_WinterPlanets.m4v" fileSize="59157282" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/iKJoo_cGL6I" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/48_WinterPlanets.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/iKJoo_cGL6I/48_WinterPlanets.m4v" length="59157282" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/48_WinterPlanets.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 47: Alien Matter in the Solar System - A Galactic Mismatch</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/ugNTQnCct7U/47_AlienMatterSolarSystem.m4v</link>
+
+<pubDate>Thu, 09 Feb 2012 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>"Alien matter" detected by a NASA spacecraft orbiting Earth shows that the chemical make-up of our solar system differs from that of the surrounding galaxy.</itunes:subtitle>
+<itunes:summary>"Alien matter" detected by a NASA spacecraft orbiting Earth shows that the chemical make-up of our solar system differs from that of the surrounding galaxy.</itunes:summary>
+<itunes:duration>03:11</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Milky Way, heliosphere, solar system, Voyager 1, Voyager 2</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/47_AlienMatterSolarSystem-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/47_AlienMatterSolarSystem.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ugNTQnCct7U/47_AlienMatterSolarSystem.m4v" fileSize="53246663" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/ugNTQnCct7U" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/47_AlienMatterSolarSystem.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ugNTQnCct7U/47_AlienMatterSolarSystem.m4v" length="53246663" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/47_AlienMatterSolarSystem.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 46: Mission to Land on a Comet</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/O52MeczLl84/46_MissionToLandOnComet.m4v</link>
+
+<pubDate>Thu, 02 Feb 2012 18:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>In 2014, Rosetta will enter orbit around 67P/Churyumov-Gerasimenko and land a probe on it for a front row seat as the comet heads toward the sun.</itunes:subtitle>
+<itunes:summary>In 2014, Rosetta will enter orbit around 67P/Churyumov-Gerasimenko and land a probe on it for a front row seat as the comet heads toward the sun.</itunes:summary>
+<itunes:duration>03:33</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Rosetta, comet, European Space Agency, Philae, 67P</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/46_MissionToLandOnComet-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/46_MissionToLandOnComet.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/O52MeczLl84/46_MissionToLandOnComet.m4v" fileSize="58264088" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/O52MeczLl84" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/46_MissionToLandOnComet.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/O52MeczLl84/46_MissionToLandOnComet.m4v" length="58264088" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/46_MissionToLandOnComet.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 45: Solar Eclipse in the USA</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/RFKJNYSDuI0/45_AnnularEclipse.m4v</link>
+
+<pubDate>Thu, 26 Jan 2012 21:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A "ring of fire" solar eclipse is coming to the USA this spring. It's the first annular eclipse visible from the contiguous United States in almost 18 years.</itunes:subtitle>
+<itunes:summary>A "ring of fire" solar eclipse is coming to the USA this spring. It's the first annular eclipse visible from the contiguous United States in almost 18 years.</itunes:summary>
+<itunes:duration>03:08</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, solar eclipse, annular, ring of fire, partial eclipse, eclipse glasses, solar filters</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/45_AnnularEclipse-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/45_AnnularEclipse.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RFKJNYSDuI0/45_AnnularEclipse.m4v" fileSize="51459042" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/RFKJNYSDuI0" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/45_AnnularEclipse.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RFKJNYSDuI0/45_AnnularEclipse.m4v" length="51459042" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/45_AnnularEclipse.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 44: What Happened to all the Snow?</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/6hgPOqq92dQ/44_WhatHappenedToSnow.m4v</link>
+
+<pubDate>Thu, 19 Jan 2012 15:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Winter seems to have been on hold this year in some parts of the US. Why has snowfall been so scarce? JPL climatologist Bill Patzert explains what's going on.</itunes:subtitle>
+<itunes:summary>Winter seems to have been on hold this year in some parts of the US. Why has snowfall been so scarce? JPL climatologist Bill Patzert explains what's going on.</itunes:summary>
+<itunes:duration>03:16</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, La Nina, El Nino, snow, weather, climate, winter, Iditarod, ski season</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/44_WhatHappenedToSnow-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/44_WhatHappenedToSnow.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6hgPOqq92dQ/44_WhatHappenedToSnow.m4v" fileSize="53343874" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/6hgPOqq92dQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/44_WhatHappenedToSnow.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6hgPOqq92dQ/44_WhatHappenedToSnow.m4v" length="53343874" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/44_WhatHappenedToSnow.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 43: Some Comets Like It Hot</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/KtRY7puZaOM/43_SomeCometsHot.m4v</link>
+
+<pubDate>Thu, 12 Jan 2012 15:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Astronomers are still scratching their heads over Comet Lovejoy, which plunged through the atmosphere of the sun in December and, against all odds, survived.</itunes:subtitle>
+<itunes:summary>Astronomers are still scratching their heads over Comet Lovejoy, which plunged through the atmosphere of the sun in December and, against all odds, survived.</itunes:summary>
+<itunes:duration>04:17</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, comet, sungrazer, Lovejoy, heliophysics, SOHO, Solar Dynamics Observatory, STEREO, Hinode</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/43_SomeCometsHot-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/43_SomeCometsHot.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/KtRY7puZaOM/43_SomeCometsHot.m4v" fileSize="69491848" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/KtRY7puZaOM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/43_SomeCometsHot.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/KtRY7puZaOM/43_SomeCometsHot.m4v" length="69491848" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/43_SomeCometsHot.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 42: Re-thinking an Alien World</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/gNN9DnZEo58/42_RethinkingAnAlienWorld.m4v</link>
+
+<pubDate>Thu, 05 Jan 2012 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A distant super-Earth named "55 Cancri e" is wetter and weirder than astronomers thought possible. The discovery has researchers re-thinking the nature of alien worlds.</itunes:subtitle>
+<itunes:summary>A distant super-Earth named "55 Cancri e" is wetter and weirder than astronomers thought possible. The discovery has researchers re-thinking the nature of alien worlds.</itunes:summary>
+<itunes:duration>03:12</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, exoplanet, supercritical fluid, alien worlds, Spitzer, Kepler</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/42_RethinkingAnAlienWorld-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/42_RethinkingAnAlienWorld.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/gNN9DnZEo58/42_RethinkingAnAlienWorld.m4v" fileSize="127381210" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/gNN9DnZEo58" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/42_RethinkingAnAlienWorld.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/gNN9DnZEo58/42_RethinkingAnAlienWorld.m4v" length="127381210" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/42_RethinkingAnAlienWorld.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 41: Tracking Meteoroids</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/M8op1N_sf94/41_TrackingMeteoroids.m4v</link>
+
+<pubDate>Tue, 13 Dec 2011 15:30:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A new iPhone app just released by NASA harnesses the power of citizen scientists to track space debris around Earth.</itunes:subtitle>
+<itunes:summary>A new iPhone app just released by NASA harnesses the power of citizen scientists to track space debris around Earth.</itunes:summary>
+<itunes:duration>03:11</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, meteor, meteorite, citizen science, Geminids, Leonids, Perseids</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/41_TrackingMeteoroids-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/41_TrackingMeteoroids.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/M8op1N_sf94/41_TrackingMeteoroids.m4v" fileSize="127167350" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/M8op1N_sf94" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/41_TrackingMeteoroids.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/M8op1N_sf94/41_TrackingMeteoroids.m4v" length="127167350" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/41_TrackingMeteoroids.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 40: Smallest Terrestrial Planet?</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/it11ULsgdes/40_SmallestTerrestrialPlanet.m4v</link>
+
+<pubDate>Fri, 09 Dec 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Dawn probe has found some surprising things on the giant asteroid Vesta--things that have prompted one researcher to declare Vesta "the smallest terrestrial planet."</itunes:subtitle>
+<itunes:summary>NASA's Dawn probe has found some surprising things on the giant asteroid Vesta--things that have prompted one researcher to declare Vesta "the smallest terrestrial planet."</itunes:summary>
+<itunes:duration>03:12</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, asteroid, dwarf planet, Dawn, asteroid belt, protoplanet</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/40_SmallestTerrestrialPlanet-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/40_SmallestTerrestrialPlanet.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/it11ULsgdes/40_SmallestTerrestrialPlanet.m4v" fileSize="126345821" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/it11ULsgdes" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/40_SmallestTerrestrialPlanet.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/it11ULsgdes/40_SmallestTerrestrialPlanet.m4v" length="126345821" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/40_SmallestTerrestrialPlanet.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 39: A Super-Sized Lunar Eclipse</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/8R5lVx9D2o4/39_SuperSizedLunarEclipse.m4v</link>
+
+<pubDate>Thu, 01 Dec 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On Dec 10th, sky watchers in the western United States will witness a total lunar eclipse swollen to super-sized proportions by the Moon illusion.</itunes:subtitle>
+<itunes:summary>On Dec 10th, sky watchers in the western United States will witness a total lunar eclipse swollen to super-sized proportions by the Moon illusion.</itunes:summary>
+<itunes:duration>03:39</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, lunar eclipse, total eclipse of the Moon, stratosphere, atmospheric science</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/39_SuperSizedLunarEclipse-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/39_SuperSizedLunarEclipse.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/8R5lVx9D2o4/39_SuperSizedLunarEclipse.m4v" fileSize="143939057" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/8R5lVx9D2o4" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/39_SuperSizedLunarEclipse.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/8R5lVx9D2o4/39_SuperSizedLunarEclipse.m4v" length="143939057" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/39_SuperSizedLunarEclipse.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 38: The Great Lakes of Europa</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/xFmFrQL_fug/38_GreatLakesEuropa.m4v</link>
+
+<pubDate>Wed, 23 Nov 2011 13:45:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Scientists studying data from NASA's Galileo probe have discovered what appears to be a body of liquid water the volume of the North American Great Lakes locked inside the icy shell of Jupiter's moon Europa.</itunes:subtitle>
+<itunes:summary>Scientists studying data from NASA's Galileo probe have discovered what appears to be a body of liquid water the volume of the North American Great Lakes locked inside the icy shell of Jupiter's moon Europa.</itunes:summary>
+<itunes:duration>03:32</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, astrobiology, extraterrestrial life, Europa, Jupiter, extremophiles</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/38_GreatLakesEuropa-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/38_GreatLakesEuropa.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/xFmFrQL_fug/38_GreatLakesEuropa.m4v" fileSize="82879900" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/xFmFrQL_fug" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/38_GreatLakesEuropa.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/xFmFrQL_fug/38_GreatLakesEuropa.m4v" length="82879900" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/38_GreatLakesEuropa.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 37: Terrifying Auroras</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/7uNk1chUCWU/37_TerrifyingAuroras.m4v</link>
+
+<pubDate>Wed, 23 Nov 2011 13:38:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>A distant world is being hit by solar storms so ferocious, the entire planet is probably enveloped in auroras. Researchers speculate that the display is probably as beautiful as it is terrifying.</itunes:subtitle>
+<itunes:summary>A distant world is being hit by solar storms so ferocious, the entire planet is probably enveloped in auroras. Researchers speculate that the display is probably as beautiful as it is terrifying.</itunes:summary>
+<itunes:duration>03:47</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, space weather, Chandra, X-rays, solar flares</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/37_TerrifyingAuroras-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/37_TerrifyingAuroras.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7uNk1chUCWU/37_TerrifyingAuroras.m4v" fileSize="39609635" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/7uNk1chUCWU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/37_TerrifyingAuroras.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7uNk1chUCWU/37_TerrifyingAuroras.m4v" length="39609635" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/37_TerrifyingAuroras.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 36: Mystery of the Lunar Ionosphere</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/JAUb5zjy41s/36_LunarIonosphere.m4v</link>
+
+<pubDate>Thu, 10 Nov 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>How can a world without air have an ionosphere? Somehow the Moon has done it. Lunar researchers have been struggling with this mystery for years, and they may have finally found a solution.</itunes:subtitle>
+<itunes:summary>How can a world without air have an ionosphere? Somehow the Moon has done it. Lunar researchers have been struggling with this mystery for years, and they may have finally found a solution.</itunes:summary>
+<itunes:duration>03:37</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Moon, exosphere, communication, navigation, ionosphere, alien atmospheres, moondust</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/36_LunarIonosphere-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/36_LunarIonosphere.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/JAUb5zjy41s/36_LunarIonosphere.m4v" fileSize="87947131" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/JAUb5zjy41s" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/36_LunarIonosphere.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/JAUb5zjy41s/36_LunarIonosphere.m4v" length="87947131" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/36_LunarIonosphere.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 35: Stellar Extremophiles</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/xcD3Qtdpiqk/35_StellarExtremophiles.m4v</link>
+
+<pubDate>Thu, 03 Nov 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>"GALEX" has found stars forming in extreme galactic environments, places where researchers thought stars should not be. The finding could affect astronomy much as the discovery of microbial extremophiles affected biology in the 1970s.</itunes:subtitle>
+<itunes:summary>"GALEX" has found stars forming in extreme galactic environments, places where researchers thought stars should not be. The finding could affect astronomy much as the discovery of microbial extremophiles affected biology in the 1970s.</itunes:summary>
+<itunes:duration>03:40</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, stars, galaxy, extremophiles, star formation, evolution</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/35_StellarExtremophiles-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/35_StellarExtremophiles.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/xcD3Qtdpiqk/35_StellarExtremophiles.m4v" fileSize="88165701" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/xcD3Qtdpiqk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/35_StellarExtremophiles.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/xcD3Qtdpiqk/35_StellarExtremophiles.m4v" length="88165701" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/35_StellarExtremophiles.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 34: A Star with Spiral Arms</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/m0E2sDoQnuk/34_StarSpiralArms.m4v</link>
+
+<pubDate>Fri, 28 Oct 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Using a Japanese telescope, NASA-supported researchers have found the first clear case of a star with spiral arms.</itunes:subtitle>
+<itunes:summary>Using a Japanese telescope, NASA-supported researchers have found the first clear case of a star with spiral arms.</itunes:summary>
+<itunes:duration>03:36</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, star formation, circumstellar disks, planets, spiral, Subaru</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/34_StarSpiralArms-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/34_StarSpiralArms.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/m0E2sDoQnuk/34_StarSpiralArms.m4v" fileSize="72236788" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/m0E2sDoQnuk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/34_StarSpiralArms.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/m0E2sDoQnuk/34_StarSpiralArms.m4v" length="72236788" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/34_StarSpiralArms.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 33: The Sleepy Hollows of Mercury</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/HElUko4JrAU/33_SleepyHollows.m4v</link>
+
+<pubDate>Thu, 20 Oct 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's MESSENGER probe has discovered a surprise on Mercury: Something is digging "hollows" in the surface of the innermost planet.</itunes:subtitle>
+<itunes:summary>NASA's MESSENGER probe has discovered a surprise on Mercury: Something is digging "hollows" in the surface of the innermost planet.</itunes:summary>
+<itunes:duration>03:14</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Mercury, planetary science, Halloween, space weather, volcanoes</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/33_SleepyHollows-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/33_SleepyHollows.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/HElUko4JrAU/33_SleepyHollows.m4v" fileSize="34205512" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/HElUko4JrAU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/33_SleepyHollows.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/HElUko4JrAU/33_SleepyHollows.m4v" length="34205512" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/33_SleepyHollows.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 32: 600 Mysteries in the Night Sky</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/HE227tIaM0k/32_600Mysteries.m4v</link>
+
+<pubDate>Fri, 14 Oct 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The Fermi Gamma-ray Space Telescope recently produced a map of the night sky. Out of 1873 new sources, nearly 600 were complete mysteries. In this week's ScienceCast, researchers speculate on the nature of the mystery objects.</itunes:subtitle>
+<itunes:summary>The Fermi Gamma-ray Space Telescope recently produced a map of the night sky. Out of 1873 new sources, nearly 600 were complete mysteries. In this week's ScienceCast, researchers speculate on the nature of the mystery objects.</itunes:summary>
+<itunes:duration>03:08</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, dark matter, gamma rays, Fermi, black hole, galaxy</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/32_600Mysteries-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/32_600Mysteries.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/HE227tIaM0k/32_600Mysteries.m4v" fileSize="73342849" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/HE227tIaM0k" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/32_600Mysteries.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/HE227tIaM0k/32_600Mysteries.m4v" length="73342849" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/32_600Mysteries.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 31: Draconid Meteor Outburst</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/zThOGQ2o_sQ/31_Draconids.m4v</link>
+
+<pubDate>Wed, 05 Oct 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Forecasters say Earth is heading for a stream of dust from Comet 21P/Giacobini-Zinner. A close encounter with the comet's fragile debris could spark a meteor outburst over parts of our planet on October 8th.</itunes:subtitle>
+<itunes:summary>Forecasters say Earth is heading for a stream of dust from Comet 21P/Giacobini-Zinner. A close encounter with the comet's fragile debris could spark a meteor outburst over parts of our planet on October 8th.</itunes:summary>
+<itunes:duration>03:27</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, meteor outburst, storm, meteoroids, comets</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/31_Draconids-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/31_Draconids.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/zThOGQ2o_sQ/31_Draconids.m4v" fileSize="71871061" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/zThOGQ2o_sQ" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/31_Draconids.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/zThOGQ2o_sQ/31_Draconids.m4v" length="71871061" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/31_Draconids.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 30: The Strange Attraction of Gale Crater</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/Jv-8NxA_hGU/30_GaleCrater.m4v</link>
+
+<pubDate>Thu, 29 Sep 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's newest rover Curiosity is getting ready to leave Earth. It's destination: Gale crater on Mars. Today's story from Science@NASA explains the attraction of this Martian crater with a strangely-sculpted mountain the middle.</itunes:subtitle>
+<itunes:summary>NASA's newest rover Curiosity is getting ready to leave Earth. It's destination: Gale crater on Mars. Today's story from Science@NASA explains the attraction of this Martian crater with a strangely-sculpted mountain the middle.</itunes:summary>
+<itunes:duration>03:14</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Mars, rover, curiosity, Red Planet</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/30_GaleCrater-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/30_GaleCrater.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Jv-8NxA_hGU/30_GaleCrater.m4v" fileSize="34373783" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/Jv-8NxA_hGU" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/30_GaleCrater.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Jv-8NxA_hGU/30_GaleCrater.m4v" length="34373783" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/30_GaleCrater.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 29: Did Earth Have Two Moons?</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/zCc9Ryz4Y0c/29_TwoMoons.m4v</link>
+
+<pubDate>Thu, 22 Sep 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Did our planet once have two moons? Some researchers say so. Moreover, the missing satellite might still be up there--splattered across the far side of the Moon. NASA's GRAIL mission could help confirm or refute the "two moon" hypothesis.</itunes:subtitle>
+<itunes:summary>Did our planet once have two moons? Some researchers say so. Moreover, the missing satellite might still be up there--splattered across the far side of the Moon. NASA's GRAIL mission could help confirm or refute the "two moon" hypothesis.</itunes:summary>
+<itunes:duration>03:00</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, GRAIL, farside of the moon, lunar gravity, origins</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/29_TwoMoons-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/29_TwoMoons.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/zCc9Ryz4Y0c/29_TwoMoons.m4v" fileSize="30884190" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/zCc9Ryz4Y0c" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/29_TwoMoons.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/zCc9Ryz4Y0c/29_TwoMoons.m4v" length="30884190" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/29_TwoMoons.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 28: The Secret Lives of Solar Flares</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/bwO1loUSc4w/28_SecretLives.m4v</link>
+
+<pubDate>Thu, 15 Sep 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Researchers have just discovered that solar flares have been keeping a secret--and it's a big one.</itunes:subtitle>
+<itunes:summary>Researchers have just discovered that solar flares have been keeping a secret--and it's a big one.</itunes:summary>
+<itunes:duration>03:10</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, solar flares, heliophysics, space weather</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/28_SecretLives-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/28_SecretLives.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/bwO1loUSc4w/28_SecretLives.m4v" fileSize="33727794" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/bwO1loUSc4w" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/28_SecretLives.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/bwO1loUSc4w/28_SecretLives.m4v" length="33727794" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/28_SecretLives.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 27: Cool Stars</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/G8jH-MnA2Ks/27_CoolStars.m4v</link>
+
+<pubDate>Fri, 09 Sep 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Stars as cold as the human body? Believe it. A NASA spacecraft has discovered a half-dozen "Y Dwarfs" with atmospheric temperatures as low as 80 F.</itunes:subtitle>
+<itunes:summary>Stars as cold as the human body? Believe it. A NASA spacecraft has discovered a half-dozen "Y Dwarfs" with atmospheric temperatures as low as 80 F.</itunes:summary>
+<itunes:duration>02:55</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, stars, galaxy, Milky Way, brown dwarf, red dwarf</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/27_CoolStars-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/27_CoolStars.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/G8jH-MnA2Ks/27_CoolStars.m4v" fileSize="57823658" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/G8jH-MnA2Ks" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/27_CoolStars.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/G8jH-MnA2Ks/27_CoolStars.m4v" length="57823658" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/27_CoolStars.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 26: Visit to Pluto</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/1L4vnecd97g/26_VisitToPluto.m4v</link>
+
+<pubDate>Fri, 02 Sep 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Pluto is a world of mystery waiting to be visited for the 1st time. NASA's New Horizons probe is racing across the solar system for a close encounter that could alter what researchers "know" about Pluto and other small worlds.</itunes:subtitle>
+<itunes:summary>Pluto is a world of mystery waiting to be visited for the 1st time. NASA's New Horizons probe is racing across the solar system for a close encounter that could alter what researchers "know" about Pluto and other small worlds.</itunes:summary>
+<itunes:duration>02:47</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, dwarf planet, Pluto, Kuiper Belt, New Horizons</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/26_VisitToPluto-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/26_VisitToPluto.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1L4vnecd97g/26_VisitToPluto.m4v" fileSize="27633897" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/1L4vnecd97g" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/26_VisitToPluto.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1L4vnecd97g/26_VisitToPluto.m4v" length="27633897" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/26_VisitToPluto.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 25: Breath of Fresh Air</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/2sFHDl1wjuY/25_BreathOfFreshAir.m4v</link>
+
+<pubDate>Thu, 25 Aug 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The same kind of oxygen humans breath on Earth has been found in deep space. It's a breath of fresh air for astronomers who have been searching for cosmic "O2" until now without success.</itunes:subtitle>
+<itunes:summary>The same kind of oxygen humans breath on Earth has been found in deep space. It's a breath of fresh air for astronomers who have been searching for cosmic "O2" until now without success.</itunes:summary>
+<itunes:duration>02:45</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, oxygen, stars, Orion, nebula, space telescope</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/25_BreathOfFreshAir-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/25_BreathOfFreshAir.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2sFHDl1wjuY/25_BreathOfFreshAir.m4v" fileSize="28856089" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/2sFHDl1wjuY" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/25_BreathOfFreshAir.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2sFHDl1wjuY/25_BreathOfFreshAir.m4v" length="28856089" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/25_BreathOfFreshAir.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 24: Bright Perseids Photographed</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/GpxcQLvyEqk/24_BrightPerseidPhotographed.m4v</link>
+
+<pubDate>Thu, 18 Aug 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On August 13th, space station astronaut Ron Garan photographed a centimeter-sized chunk of comet debris disintegrating in Earth's atmosphere. His rare photo of a meteor from Earth orbit is a must-see.</itunes:subtitle>
+<itunes:summary>On August 13th, space station astronaut Ron Garan photographed a centimeter-sized chunk of comet debris disintegrating in Earth's atmosphere. His rare photo of a meteor from Earth orbit is a must-see.</itunes:summary>
+<itunes:duration>02:24</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Perseid meteor shower, ISS, space station, fireballs</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/24_BrightPerseidPhotographed-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/24_BrightPerseidPhotographed.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/GpxcQLvyEqk/24_BrightPerseidPhotographed.m4v" fileSize="37216306" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/GpxcQLvyEqk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/24_BrightPerseidPhotographed.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/GpxcQLvyEqk/24_BrightPerseidPhotographed.m4v" length="37216306" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/24_BrightPerseidPhotographed.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 23: Dawn's Smooth Move</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/1Dwjz1gKW58/23_DawnsSmoothMove.m4v</link>
+
+<pubDate>Thu, 04 Aug 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Dawn spacecraft doesn't do things like other missions.  In July it slipped into orbit around asteroid Vesta using a smooth move that made mission planners want to get up and dance.</itunes:subtitle>
+<itunes:summary>NASA's Dawn spacecraft doesn't do things like other missions.  In July it slipped into orbit around asteroid Vesta using a smooth move that made mission planners want to get up and dance.</itunes:summary>
+<itunes:duration>03:29</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, asteroid belt, Vesta, Ceres, Dawn, ion propulsion, solar system exploration</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/23_DawnsSmoothMove-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/23_DawnsSmoothMove.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1Dwjz1gKW58/23_DawnsSmoothMove.m4v" fileSize="25113630" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/1Dwjz1gKW58" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/23_DawnsSmoothMove.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/1Dwjz1gKW58/23_DawnsSmoothMove.m4v" length="25113630" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/23_DawnsSmoothMove.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 22: What Lies Inside Jupiter</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/6dhIeKnhwJ4/22_WhatLiesInsideJupiter.m4v</link>
+
+<pubDate>Thu, 28 Jul 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>For four long centuries the gas giant's vast interior has remained hidden from view. NASA's Juno probe, scheduled to launch on August 5th, could change all that.</itunes:subtitle>
+<itunes:summary>For four long centuries the gas giant's vast interior has remained hidden from view. NASA's Juno probe, scheduled to launch on August 5th, could change all that.</itunes:summary>
+<itunes:duration>03:20</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Juno, Jupiter, auroras</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/22_WhatLiesInsideJupiter-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/22_WhatLiesInsideJupiter.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6dhIeKnhwJ4/22_WhatLiesInsideJupiter.m4v" fileSize="30692571" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/6dhIeKnhwJ4" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/22_WhatLiesInsideJupiter.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/6dhIeKnhwJ4/22_WhatLiesInsideJupiter.m4v" length="30692571" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/22_WhatLiesInsideJupiter.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 21: Sun Grazing Comet</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/uFKuNNZBVSo/21_SunGrazingComet.m4v</link>
+
+<pubDate>Wed, 27 Jul 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>On July 5th, a comet dove into the sun and disintegrated. New footage just released by NASA shows the final stages of the comet's death plunge.</itunes:subtitle>
+<itunes:summary>On July 5th, a comet dove into the sun and disintegrated. New footage just released by NASA shows the final stages of the comet's death plunge.</itunes:summary>
+<itunes:duration>02:55</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, comet, sun, solar activity, Solar Dynamics Observatory</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/21_SunGrazingComet-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/21_SunGrazingComet.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/uFKuNNZBVSo/21_SunGrazingComet.m4v" fileSize="24292552" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/uFKuNNZBVSo" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/21_SunGrazingComet.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/uFKuNNZBVSo/21_SunGrazingComet.m4v" length="24292552" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/21_SunGrazingComet.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 20: Summer Meteor Shower</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/vZhSx0vDvjw/20_SummerMeteorShower.m4v</link>
+
+<pubDate>Thu, 21 Jul 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>If you're camping out and can't sleep, maybe your slumber is being interrupted by the flash of meteors. The summer Perseid meteor shower is getting underway as Earth enters the debris stream from comet Swift-Tuttle.</itunes:subtitle>
+<itunes:summary>If you're camping out and can't sleep, maybe your slumber is being interrupted by the flash of meteors. The summer Perseid meteor shower is getting underway as Earth enters the debris stream from comet Swift-Tuttle.</itunes:summary>
+<itunes:duration>02:47</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Perseid, meteor shower, comets, Swift-Tuttle</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/20_SummerMeteorShower-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/20_SummerMeteorShower.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vZhSx0vDvjw/20_SummerMeteorShower.m4v" fileSize="23742676" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/vZhSx0vDvjw" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/20_SummerMeteorShower.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/vZhSx0vDvjw/20_SummerMeteorShower.m4v" length="23742676" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/20_SummerMeteorShower.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 19: Dark Fireworks</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/eFDbQUo7Iro/19_DarkFireworks.m4v</link>
+
+<pubDate>Thu, 14 Jul 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA has just released new movies of an "inky-dark" solar explosion that continues to puzzle experts more than a month after it happened.</itunes:subtitle>
+<itunes:summary>NASA has just released new movies of an "inky-dark" solar explosion that continues to puzzle experts more than a month after it happened.</itunes:summary>
+<itunes:duration>02:45</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, sunspots, solar cycle, space weather, heliophysics, solar activity</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/19_DarkFireworks-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/19_DarkFireworks.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/eFDbQUo7Iro/19_DarkFireworks.m4v" fileSize="22845183" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/eFDbQUo7Iro" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/19_DarkFireworks.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/eFDbQUo7Iro/19_DarkFireworks.m4v" length="22845183" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/19_DarkFireworks.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 18: An Astronomer's Dilemma</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/lWavBtJqL6A/18_AstronomersDilemma.m4v</link>
+
+<pubDate>Thu, 07 Jul 2011 19:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Stars are bright, but their planets are not, which makes planet hunting difficult. However, NASA's ultraviolet telescope GALEX may be providing a solution.</itunes:subtitle>
+<itunes:summary>Stars are bright, but their planets are not, which makes planet hunting difficult. However, NASA's ultraviolet telescope GALEX may be providing a solution.</itunes:summary>
+<itunes:duration>02:55</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, GALEX, ultraviolet telescope, luminosity, planetary system, m-class stars, exoplanets</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/18_AstronomersDilemma-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/18_AstronomersDilemma.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/lWavBtJqL6A/18_AstronomersDilemma.m4v" fileSize="24045919" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/lWavBtJqL6A" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/18_AstronomersDilemma.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/lWavBtJqL6A/18_AstronomersDilemma.m4v" length="24045919" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/18_AstronomersDilemma.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 17: Wild Weather</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/lix4bJG0zHY/17_WildWeather.m4v</link>
+
+<pubDate>Thu, 30 Jun 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Record snowfall, killer tornadoes, devastating floods: There's no doubt about it. Since Dec. 2010, the weather in the USA has been positively wild. But why?</itunes:subtitle>
+<itunes:summary>Record snowfall, killer tornadoes, devastating floods: There's no doubt about it. Since Dec. 2010, the weather in the USA has been positively wild. But why?</itunes:summary>
+<itunes:duration>03:04</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, La Nina, El Nino, jet stream, weather</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/17_WildWeather-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/17_WildWeather.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/lix4bJG0zHY/17_WildWeather.m4v" fileSize="26579596" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/lix4bJG0zHY" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/17_WildWeather.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/lix4bJG0zHY/17_WildWeather.m4v" length="26579596" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/17_WildWeather.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 15: The Power of Sea Salt</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/Xo7XynhLhZk/15_PowerOfSeaSalt.m4v</link>
+
+<pubDate>Thu, 16 Jun 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Aquarius is the first NASA sensor to track ocean salinity from space, and aims to help uncover how the salinity of Earth's oceans are effecting our climate.</itunes:subtitle>
+<itunes:summary>Aquarius is the first NASA sensor to track ocean salinity from space, and aims to help uncover how the salinity of Earth's oceans are effecting our climate.</itunes:summary>
+<itunes:duration>03:05</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, sea salt, salinity, Aquarius, microwave radiometer</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/15_PowerOfSeaSalt-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/15_PowerOfSeaSalt.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Xo7XynhLhZk/15_PowerOfSeaSalt.m4v" fileSize="46518435" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/Xo7XynhLhZk" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/15_PowerOfSeaSalt.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/Xo7XynhLhZk/15_PowerOfSeaSalt.m4v" length="46518435" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/15_PowerOfSeaSalt.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 14: Big Surprise</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/9j8GKX9HjRg/14_BigSurprise.m4v</link>
+
+<pubDate>Thu, 09 Jun 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA's Voyager probes have reached the edge of the solar system and found something surprising there--a froth of magnetic bubbles separating us from the rest of the galaxy.</itunes:subtitle>
+<itunes:summary>NASA's Voyager probes have reached the edge of the solar system and found something surprising there--a froth of magnetic bubbles separating us from the rest of the galaxy.</itunes:summary>
+<itunes:duration>02:58</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, cosmic rays, Voyager, interstellar space, Solar System</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/14_BigSurprise-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/14_BigSurprise.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/9j8GKX9HjRg/14_BigSurprise.m4v" fileSize="19823151" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/9j8GKX9HjRg" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/14_BigSurprise.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/9j8GKX9HjRg/14_BigSurprise.m4v" length="19823151" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/14_BigSurprise.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 13: Salute to Spirit</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/yf85LZ6u6Bo/13_SaluteToSpirit.m4v</link>
+
+<pubDate>Thu, 02 Jun 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>It's been more than a year since NASA has heard from Mars rover Spirit. The agency says it may be time to say "thanks and farewell."</itunes:subtitle>
+<itunes:summary>It's been more than a year since NASA has heard from Mars rover Spirit. The agency says it may be time to say "thanks and farewell."</itunes:summary>
+<itunes:duration>03:36</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Mars, rover, Spirit, Opportunity, Red Planet</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/13_SaluteToSpirit-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/13_SaluteToSpirit.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/yf85LZ6u6Bo/13_SaluteToSpirit.m4v" fileSize="59174463" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/yf85LZ6u6Bo" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/13_SaluteToSpirit.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/yf85LZ6u6Bo/13_SaluteToSpirit.m4v" length="59174463" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/13_SaluteToSpirit.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 12: Superflares</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/7LHla9DsLZM/12_Superflares.m4v</link>
+
+<pubDate>Thu, 19 May 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Something is exploding in the Crab Nebula ten billion times more powerful than a solar flare. These "superflares" are baffling astronomers who haven't yet figured out the source of the blasts.</itunes:subtitle>
+<itunes:summary>Something is exploding in the Crab Nebula ten billion times more powerful than a solar flare. These "superflares" are baffling astronomers who haven't yet figured out the source of the blasts.</itunes:summary>
+<itunes:duration>03:03</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, supernova, flares, gamma rays, explosions, particle accelerator</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/12_Superflares-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/12_Superflares.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7LHla9DsLZM/12_Superflares.m4v" fileSize="25326041" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/7LHla9DsLZM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/12_Superflares.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/7LHla9DsLZM/12_Superflares.m4v" length="25326041" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/12_Superflares.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 11: Space-Time Vortex</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/RjAMbCpN1ns/11_SpaceTimeVortex.m4v</link>
+
+<pubDate>Thu, 12 May 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>NASA has announced the results of an epic physics experiment which confirms the reality of a space-time vortex around our planet.</itunes:subtitle>
+<itunes:summary>NASA has announced the results of an epic physics experiment which confirms the reality of a space-time vortex around our planet.</itunes:summary>
+<itunes:duration>02:49</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Einstein, gravity, relativity, space time</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/11_SpaceTimeVortex-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/11_SpaceTimeVortex.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RjAMbCpN1ns/11_SpaceTimeVortex.m4v" fileSize="21814246" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/RjAMbCpN1ns" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/11_SpaceTimeVortex.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/RjAMbCpN1ns/11_SpaceTimeVortex.m4v" length="21814246" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/11_SpaceTimeVortex.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 10: Morning Planet Show</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/2LcpSnuJS_A/10_MorningPlanetShow.m4v</link>
+
+<pubDate>Thu, 05 May 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>The Great Morning Planet Show of May 2011 is underway. Wake up before sunrise any day this month to see a shape-shifting alignment of heavenly lights.</itunes:subtitle>
+<itunes:summary>The Great Morning Planet Show of May 2011 is underway. Wake up before sunrise any day this month to see a shape-shifting alignment of heavenly lights.</itunes:summary>
+<itunes:duration>02:02</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, planets, sky watching, Mars, Jupiter, Venus, Mercury</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/10_MorningPlanetShow-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/10_MorningPlanetShow.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2LcpSnuJS_A/10_MorningPlanetShow.m4v" fileSize="8171206" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/2LcpSnuJS_A" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/10_MorningPlanetShow.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/2LcpSnuJS_A/10_MorningPlanetShow.m4v" length="8171206" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/10_MorningPlanetShow.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 09: Voyager</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/mRfqQPs6gCo/09_Voyager.m4v</link>
+
+<pubDate>Thu, 28 Apr 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>More than 30 years after they were launched, NASA's two Voyager probes have traveled to the edge of the solar system and are on the doorstep of interstellar space.</itunes:subtitle>
+<itunes:summary>More than 30 years after they were launched, NASA's two Voyager probes have traveled to the edge of the solar system and are on the doorstep of interstellar space.</itunes:summary>
+<itunes:duration>04:30</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, Voyager interstellar space, heliosphere, golden record</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/09_Voyager-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/09_Voyager.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/mRfqQPs6gCo/09_Voyager.m4v" fileSize="27425941" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/mRfqQPs6gCo" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/09_Voyager.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/mRfqQPs6gCo/09_Voyager.m4v" length="27425941" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/09_Voyager.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 08: Meteors from Halley's Comet</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/cDe2c1g2yIw/08_MeteorsHalleysComet.m4v</link>
+
+<pubDate>Wed, 20 Apr 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Earth is about to pass through a stream of dust from Halley's Comet, source of the annual eta Aquarid meteor shower. The show begins before sunrise on May 6th.</itunes:subtitle>
+<itunes:summary>Earth is about to pass through a stream of dust from Halley's Comet, source of the annual eta Aquarid meteor shower. The show begins before sunrise on May 6th.</itunes:summary>
+<itunes:duration>02:28</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, meteors, comets, Halley's Comet, comet dust, sky watching</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/08_MeteorsHalleysComet-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/08_MeteorsHalleysComet.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/cDe2c1g2yIw/08_MeteorsHalleysComet.m4v" fileSize="32034225" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/cDe2c1g2yIw" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/08_MeteorsHalleysComet.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/cDe2c1g2yIw/08_MeteorsHalleysComet.m4v" length="32034225" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/08_MeteorsHalleysComet.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 07: Solar Activity</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/aWWyg7U7pwY/07_SolarActivity.m4v</link>
+
+<pubDate>Wed, 13 Apr 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>With a burst of solar flares and Northern Lights, the sun is waking up from a three-year slumber.</itunes:subtitle>
+<itunes:summary>With a burst of solar flares and Northern Lights, the sun is waking up from a three-year slumber.</itunes:summary>
+<itunes:duration>02:36</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, space weather, solar activity, geomagnetic storms, solar flares, heliophysics</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/07_SolarActivity-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/07_SolarActivity.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/aWWyg7U7pwY/07_SolarActivity.m4v" fileSize="21845773" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/aWWyg7U7pwY" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/07_SolarActivity.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/aWWyg7U7pwY/07_SolarActivity.m4v" length="21845773" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/07_SolarActivity.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 06: Fireballs</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/ir8hxibN9FI/06_Fireballs.m4v</link>
+
+<pubDate>Wed, 06 Apr 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>For reasons researchers do not understand, the rate of midnight fireballs increases during the weeks around the vernal equinox. It's a beautiful display, but where do they come from?</itunes:subtitle>
+<itunes:summary>For reasons researchers do not understand, the rate of midnight fireballs increases during the weeks around the vernal equinox. It's a beautiful display, but where do they come from?</itunes:summary>
+<itunes:duration>01:58</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, shooting star, meteor, fireball, vernal equinox, spring, astronomy</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/06_Fireballs-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/06_Fireballs.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ir8hxibN9FI/06_Fireballs.m4v" fileSize="16300882" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/ir8hxibN9FI" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/06_Fireballs.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ir8hxibN9FI/06_Fireballs.m4v" length="16300882" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/06_Fireballs.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 05: Superfluids</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/ngNFcYPl7vA/05_Superfluid.m4v</link>
+
+<pubDate>Thu, 31 Mar 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Strange quantum fluids that love to sneak out of cups have been found trapped inside the core of a dead neutron star.</itunes:subtitle>
+<itunes:summary>Strange quantum fluids that love to sneak out of cups have been found trapped inside the core of a dead neutron star.</itunes:summary>
+<itunes:duration>02:47</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, superfluid, quantum, supernova, neutron star, Chandra, x-ray astronomy</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/05_Superfluid-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/05_Superfluid.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ngNFcYPl7vA/05_Superfluid.m4v" fileSize="23100183" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/ngNFcYPl7vA" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/05_Superfluid.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/ngNFcYPl7vA/05_Superfluid.m4v" length="23100183" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/05_Superfluid.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 04: Missing Sunspots</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/QSMW652ORrc/04_Sunspots.m4v</link>
+
+<pubDate>Wed, 23 Mar 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>When solar activity recently plunged into a century-class minimum, many experts were puzzled. Now a group of researchers say they have cracked the mystery of the missing sunspots.</itunes:subtitle>
+<itunes:summary>When solar activity recently plunged into a century-class minimum, many experts were puzzled. Now a group of researchers say they have cracked the mystery of the missing sunspots.</itunes:summary>
+<itunes:duration>02:15</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, space weather, sunspots, solar activity, heliophysics</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/04_Sunspots-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/04_Sunspots.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/QSMW652ORrc/04_Sunspots.m4v" fileSize="19131888" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/QSMW652ORrc" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/04_Sunspots.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/QSMW652ORrc/04_Sunspots.m4v" length="19131888" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/04_Sunspots.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 03: Super Moon</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/O-COBWDL6As/03_SuperMoon.m4v</link>
+
+<pubDate>Wed, 16 Mar 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Mark your calendar. On March 19th, a full Moon of rare size and beauty will rise in the east at sunset. It's a super "perigee moon"--the biggest in almost 20 years.</itunes:subtitle>
+<itunes:summary>Mark your calendar. On March 19th, a full Moon of rare size and beauty will rise in the east at sunset. It's a super "perigee moon"--the biggest in almost 20 years.</itunes:summary>
+<itunes:duration>03:00</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, full Moon, super moon, tides, Moon, illusion, perigee</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/03_SuperMoon-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/03_SuperMoon.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/O-COBWDL6As/03_SuperMoon.m4v" fileSize="23913530" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/O-COBWDL6As" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/03_SuperMoon.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/O-COBWDL6As/03_SuperMoon.m4v" length="23913530" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/03_SuperMoon.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 02: Thundersnow</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/-x8akvU1SHM/02_Thundersnow.m4v</link>
+
+<pubDate>Wed, 09 Mar 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>Last month, NASA scientists got a rare chance to study "thundersnow" first-hand when a freak winter storm rolled right over their research center.</itunes:subtitle>
+<itunes:summary>Last month, NASA scientists got a rare chance to study "thundersnow" first-hand when a freak winter storm rolled right over their research center.</itunes:summary>
+<itunes:duration>02:04</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, lightning, snow, thundersnow, extreme weather, NASA Earth Science</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/02_Thundersnow-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/02_Thundersnow.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/-x8akvU1SHM/02_Thundersnow.m4v" fileSize="12974759" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/-x8akvU1SHM" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/02_Thundersnow.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/-x8akvU1SHM/02_Thundersnow.m4v" length="12974759" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/02_Thundersnow.m4v</feedburner:origEnclosureLink></item>
+
+<item>
+<title>ScienceCast 01: NanoSail-D</title>
+<link>http://feedproxy.google.com/~r/NasaSciencecasts/~3/hsmgiEaZDrE/01_NanoSail-D.m4v</link>
+
+<pubDate>Fri, 18 Feb 2011 16:00:00 EDT</pubDate>
+<itunes:author>NASA Science</itunes:author>
+<itunes:subtitle>High overhead, out of the darkness, a bright light surges into view. For 5 to 10 seconds it outshines the brightest stars in the sky, mimicking a supernova, perhaps even casting faint shadows at your feet.</itunes:subtitle>
+<itunes:summary>High overhead, out of the darkness, a bright light surges into view. For 5 to 10 seconds it outshines the brightest stars in the sky, mimicking a supernova, perhaps even casting faint shadows at your feet.</itunes:summary>
+<itunes:duration>01:44</itunes:duration>
+<itunes:keywords>NASA, NASA Science, Science, National Aeronautics and Space Administration, ScienceCasts, SMD, Science Mission Directorate, Science@NASA News, Science News, NanoSail-D</itunes:keywords>
+<itunes:image href="http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/episode_thumbs/01_NanoSail-D-poster.jpg" />
+<itunes:explicit>no</itunes:explicit>
+<itunes:block>no</itunes:block>
+<guid isPermaLink="false">http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/01_NanoSail-D.m4v</guid>
+<author>michael.brody-1@nasa.gov (NASA Science)</author><media:content url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/hsmgiEaZDrE/01_NanoSail-D.m4v" fileSize="13954312" type="video/x-m4v" /><description>&lt;img src="http://feeds.feedburner.com/~r/NasaSciencecasts/~4/hsmgiEaZDrE" height="1" width="1"/&gt;</description><feedburner:origLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/01_NanoSail-D.m4v</feedburner:origLink><enclosure url="http://feedproxy.google.com/~r/NasaSciencecasts/~5/hsmgiEaZDrE/01_NanoSail-D.m4v" length="13954312" type="video/x-m4v" /><feedburner:origEnclosureLink>http://anon.nasa-global.edgesuite.net/anon.nasa-global/smd/01_NanoSail-D.m4v</feedburner:origEnclosureLink></item>
+
+<media:credit role="author">NASA Science</media:credit><media:rating>nonadult</media:rating><media:description type="plain">NASA Science news is too exciting for plain text. Educational "ScienceCast" videos are fun, lively, entertaining--anything but plain. Join us for a new episode weekly as we look into the science behind discoveries on Earth, the Solar System, and beyond...</media:description></channel>
+</rss>
