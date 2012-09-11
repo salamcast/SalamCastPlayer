@@ -17,6 +17,7 @@ if (array_key_exists('PATH_INFO', $_SERVER)) {
                 jPlayerSolution: "flash, html",
                 debug: false
             });
+//            $('#tabs').tabs({ collapsible: true });
         },
     });
 });

@@ -100,6 +100,7 @@ switch ($rest) {
         $css->set_jquery($webdir.'/js/jquery-1.7.2.min.js');
         // add jquery-ui, will default to web link if file is not avaliable
         $css->set_jquery_ui($webdir.'/js/jquery-ui-1.8.21.custom.min.js');
+        $css->set_jquery_ui($webdir.'/js/jquery.touch-punch.js');
         $css->add_js($webdir.'/js/JSON.js');
         // add custom javascript
 //        $css->add_js($webdir.'/css-one/js/jquery.xslt.js');

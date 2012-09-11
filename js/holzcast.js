@@ -34,7 +34,7 @@
   SalamCast: function(options) {
    var p = 0; // for playlist item uniqueness
    var o = 0; // opml unique ness
-   var $id = $(this).attr('id');   
+   var $id = '#'+$(this).attr('id');   
    // plugin defaults
    var defaults = {
     load: 'body',
@@ -42,7 +42,6 @@
     PlayPlaylist: '1', // numbered to allow multi-instances
     poster: '',
     feeds: '',   //JSON object {"title":"url"} ** remember no ',' on last item in array
-    // links to open podcast in rss browser or itunes or other podcast/rss client
     itunes: 'http://www.itunes.com/dtds/podcast-1.0.dtd',    //  set to true/any to enable
     jPlayerSolution: "html, flash", // jPlayer Solution
     debug: true,
@@ -50,36 +49,47 @@
    };
    var opts = $.extend(defaults, options);
 /* These CSS ids and classes are used for buttons and id items.  classes start with a '.'  */   
-   var cssId = { 
-    itunes: 'itunes',
-    rss: 'rss',
-    pcast_link: 'pcast_link',
-    menu: 'menu',
-    podcasts: "ajax",
+   var css_defaults = {
+    link_rss: 'link[type="application/rss+xml"]',
+    itunes: 	'#itunes',
+    rss: 	'#rss',
+    pcast_link: '#pcast_link',
+    menu: 	'#menu',
+    menu_items: '#menu > ul > li > a',
+    podcasts: 	"#ajax",
     // jPlayer
-    track: "track_name_txt",
-    jPlayer: "jquery_jplayer_1", 
+    track: 	"#track_name_txt",
+    jPlayer: 	"#jquery_jplayer_1", 
     // current playlist, can be switched off if needed
-    playlist: "podcast",
-    play: 'play',
-    pcast: "pcast", // ul
-    playlist_item: 'podcast_item_', // playlist item prefix
-    remote: "holzremote",
-    next: ".jp-next",
-    prev: ".jp-previous",
-    full: "a.jp-full-screen",
-    normal: "a.jp-restore-screen",
-    controls: ".jp-controls",
+    playlist: 	"#podcast",
+    play: 	'#play',
+    pcast: 	"#pcast", 
+    playlist_item: '#podcast_item_', // playlist item prefix
+    remote: 	"#holzremote",
+    // uses class
+    next: 	".jp-next",
+    prev: 	".jp-previous",
+    full: 	"a.jp-full-screen",
+    normal: 	"a.jp-restore-screen",
+    controls: 	".jp-controls",
+    controls_act: '.jp-controls > li > a',
     //
-    item_info: 'podcast_info',
-    playlist_title: "title",
-    playlist_url: "href",
-    track_url: "track",
-    max: "max",
-    playing: "num",
-    chan_info: 'channel_info',
+
+    playlist_title: "#title",
+    playlist_url: "#href",
+    track_url: 	"#track",
+    max: 	"#max",
+    playing: 	"#num",
+    open_item_info: "#open_item_info",
+    open_chan_info: "#open_chan_info",
+    item_info: 	'#podcast_info',
+    chan_info: 	'#channel_info',
+    item_info_box: 	'#item_info_box',
+    chan_info_box: 	'#chan_info_box'
 
    };
+   
+   var cssId = $.extend(css_defaults, options.cssId);
    // one liners for basic HTML structures
    var html = {
     a_ref: function(title, playlist, p) { 
@@ -88,17 +98,17 @@
     },
     podcast_item: function(p, title, playlist){ return '<li>'+this.a_ref(title, playlist, p)+'</li>'; },
     playlist_item: function(id,url, name, i){
-     return "<li ><a  id='" +id+"' href='"+url+"' ext='"+ext(url)+"' tabindex='"+i+"'>"+name+"</a></li>";
+     return "<li ><a  id='" +id.replace('#', '')+"' href='"+url+"' ext='"+ext(url)+"' tabindex='"+i+"'>"+name+"</a></li>";
     },
     rss_link: function(t, l) { return "<link type='application/rss+xml' rel='alternate' title='"+t+"' href='"+l+"' />"; },
-    feed_html: function(t,id) { return '<h3 class="ui-widget-header ui-corner-all">'+t+'</h3><br /><div id="'+id+'"></div><br />'; }
+    feed_html: function(t,id) { return '<h3 class="ui-widget-header ui-corner-all">'+t+'</h3><br /><div id="'+id.replace('#', '')+'"></div><br />'; }
    };
 // ------------   
    var podcast_links = function($url){
-    $('#'+cssId.rss).attr('href',$url);
+    $(cssId.rss).attr('href',$url);
     // replace http:// with itpc://
-    $('#'+cssId.itunes).attr('href', $url.replace("http://", "itpc://"));
-    $('#'+cssId.pcast_link).attr('href', $url.replace("http://", "pcast://")); 
+    $(cssId.itunes).attr('href', $url.replace("http://", "itpc://"));
+    $(cssId.pcast_link).attr('href', $url.replace("http://", "pcast://")); 
    };
       
 //################################################################################################
@@ -132,18 +142,18 @@
     return 'm4v';
    };
    var set_title = function(t) {
-	$("#"+cssId.track).attr('title', t);
-	$("#"+cssId.playlist_title).text(t);
+	$(cssId.track).attr('title', t);
+	$(cssId.playlist_title).text(t);
    };
 
 //################################################################################################
    /* Fix jPlayer hight and width  issues */
    var fix_jplayer = function() {
-    $('#'+cssId.jPlayer+' object' ).removeAttr('width').removeAttr('height').removeAttr('style');
-    $('#'+cssId.jPlayer+' video' ).removeAttr('width').removeAttr('height').removeAttr('style');
-    $('#'+cssId.jPlayer+' img' ).removeAttr('width').removeAttr('height');
-    $('#'+cssId.jPlayer).removeAttr('style');
-    $('.jp-controls > li > a').css('display', function() {
+    $(cssId.jPlayer+' object' ).removeAttr('width').removeAttr('height').removeAttr('style');
+    $(cssId.jPlayer+' video' ).removeAttr('width').removeAttr('height').removeAttr('style');
+    $(cssId.jPlayer+' img' ).removeAttr('width').removeAttr('height');
+    $(cssId.jPlayer).removeAttr('style');
+    $(cssId.controls_act).css('display', function() {
       var s = $(this).css('display');
       if (s == 'inline') { return 'block'; }
       else if (s == 'block') { return 'block'; }
@@ -152,127 +162,127 @@
    };
    /* set to normal video */
    var set_normal = function (){
-    $('#'+$id).removeClass('full').addClass('normal');
-    $('#'+cssId.jPlayer+' object' ).removeAttr('class').addClass('normal');
-    $('#'+cssId.jPlayer+' video' ).removeAttr('class').addClass('normal');
-    $('#'+cssId.jPlayer+' img' ).removeAttr('class').addClass('normal');
-    $('#'+cssId.jPlayer).removeClass('full').addClass('normal');
+    $($id).removeClass('full').addClass('normal');
+    $(cssId.jPlayer+' object' ).removeAttr('class').addClass('normal');
+    $(cssId.jPlayer+' video' ).removeAttr('class').addClass('normal');
+    $(cssId.jPlayer+' img' ).removeAttr('class').addClass('normal');
+    $(cssId.jPlayer).removeClass('full').addClass('normal');
    };
    /* set to full screen video */
    var set_fullscreen = function() {
-    $('#'+$id).removeClass('normal').addClass('full');
-    $('#'+cssId.jPlayer).removeAttr('class').addClass('full').removeAttr('style');
+    $($id).removeClass('normal').addClass('full');
+    $(cssId.jPlayer).removeAttr('class').addClass('full').removeAttr('style');
    }
   
    /* configure next track to play */  
    var playlistConfig = function(index) {
-    var current = parseInt($('#'+cssId.playing).text());
+    var current = parseInt($(cssId.playing).text());
     $p=0;
-    $("#"+cssId.playlist_item  + current).removeClass("jp-playlist-current").parent().removeClass("jp-playlist-current");
-    $("#"+cssId.playlist_item  + index).addClass("jp-playlist-current").parent().addClass("jp-playlist-current");
+    $(cssId.playlist_item  + current).removeClass("jp-playlist-current").parent().removeClass("jp-playlist-current");
+    $(cssId.playlist_item  + index).addClass("jp-playlist-current").parent().addClass("jp-playlist-current");
     current = parseInt(index);
-    var a = $("#"+cssId.playlist_item  + current).attr('href');
-    var json = JSON.parse($("#"+cssId.playlist_item  + current).attr('json'));
+    var a = $(cssId.playlist_item  + current).attr('href');
+    var json = JSON.parse($(cssId.playlist_item  + current).attr('json'));
     json.desc.replace("&lt;", "<").replace("&gt;", ">");
     // set track number
-    $('#'+cssId.playing).text(current);
-    var txt=$("#"+cssId.playlist_item + current).text();
+    $(cssId.playing).text(current);
+    var txt=$(cssId.playlist_item + current).text();
 
-    $('#'+cssId.track).html(txt);
-    $('#'+cssId.item_info).empty();
+    $(cssId.track).html(txt);
+    $(cssId.item_info).empty();
     if (json.title) {
-	$('#'+cssId.item_info).append(html.feed_html('Title', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.title);
+	$(cssId.item_info).append(html.feed_html('Title', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.title);
 	$p++;
     }
     if (json.pubdate) {
-	$('#'+cssId.item_info).append(html.feed_html('Published Date', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).text(json.pubdate);
+	$(cssId.item_info).append(html.feed_html('Published Date', cssId.item_info+$p));
+	$(cssId.item_info+$p).text(json.pubdate);
 	$p++;
     }
     if (json.author) {
-	$('#'+cssId.item_info).append(html.feed_html('Author', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.author);
+	$(cssId.item_info).append(html.feed_html('Author', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.author);
 	$p++;
     }
     if (json.block) {
-	$('#'+cssId.item_info).append(html.feed_html('Block Podcast in iTunes', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.block);
+	$(cssId.item_info).append(html.feed_html('Block Podcast in iTunes', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.block);
 	$p++;
     }
     if (json.img) {
-	$('#'+cssId.item_info).append(html.feed_html('Podcast Poster', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html('<img width="380" />');
-	$("#"+cssId.item_info+$p+" > img").attr('src', json.img);
+	$(cssId.item_info).append(html.feed_html('Podcast Poster', cssId.item_info+$p));
+	$(cssId.item_info+$p).html('<img width="380" />');
+	$(cssId.item_info+$p+" > img").attr('src', json.img);
 	opts.poster=json.img;
 	$p++;
     }
     if (json.time) {
-	$('#'+cssId.item_info).append(html.feed_html('Play Time', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.time);
+	$(cssId.item_info).append(html.feed_html('Play Time', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.time);
 	$p++;
     }
     if (json.explicit) {
-	$('#'+cssId.item_info).append(html.feed_html('Explicit', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.explicit);
+	$(cssId.item_info).append(html.feed_html('Explicit', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.explicit);
 	$p++;
     }
     if (json.isCC) {
-	$('#'+cssId.item_info).append(html.feed_html('Closed Caption Video', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.isCC);
+	$(cssId.item_info).append(html.feed_html('Closed Caption Video', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.isCC);
 	$p++;
     }
     if (json.order) {
-	$('#'+cssId.item_info).append(html.feed_html('Order', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.order);
+	$(cssId.item_info).append(html.feed_html('Order', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.order);
 	$p++;
     }
     if (json.keywords) {
-	$('#'+cssId.item_info).append(html.feed_html('Keywords', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html('<ul><li>'+json.keywords.replace(/,/g, "</li><li>")+'</li></ul>');
+	$(cssId.item_info).append(html.feed_html('Keywords', cssId.item_info+$p));
+	$(cssId.item_info+$p).html('<ul><li>'+json.keywords.replace(/,/g, "</li><li>")+'</li></ul>');
 	$p++;
     }
     if (json.subtitle) {
-	$('#'+cssId.item_info).append(html.feed_html('Subtitle', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.subtitle);
+	$(cssId.item_info).append(html.feed_html('Subtitle', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.subtitle);
 	$p++;
     }
     if (json.desc) {
-	$('#'+cssId.item_info).append(html.feed_html('Summary', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.desc);
+	$(cssId.item_info).append(html.feed_html('Summary', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.desc);
 	$p++;
     }
     if (json.guid) {
-	$('#'+cssId.item_info).append(html.feed_html('guid', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.guid);
+	$(cssId.item_info).append(html.feed_html('guid', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.guid);
 	$p++;
     }
     if (json.url) {
-	$('#'+cssId.item_info).append(html.feed_html('Media File', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html('<a></a>');
-	$("#"+cssId.item_info+$p+' > a').html('Download').attr('href', json.url);
+	$(cssId.item_info).append(html.feed_html('Media File', cssId.item_info+$p));
+	$(cssId.item_info+$p).html('<a></a>');
+	$(cssId.item_info+$p+' > a').html('Download').attr('href', json.url);
 	$p++;
     }
     if (json.type) {
-	$('#'+cssId.item_info).append(html.feed_html('Type', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.type);
+	$(cssId.item_info).append(html.feed_html('Type', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.type);
 	$p++;
     }
     if (json.size) {
-	$('#'+cssId.item_info).append(html.feed_html('Size', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html(json.size);
+	$(cssId.item_info).append(html.feed_html('Size', cssId.item_info+$p));
+	$(cssId.item_info+$p).html(json.size);
 	$p++;
     }
     if (json.comments) {
-	$('#'+cssId.item_info).append(html.feed_html('Comments', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html('<a></a>');
-	$("#"+cssId.item_info+$p+' > a').html(json.comments).attr('href', json.comments);
+	$(cssId.item_info).append(html.feed_html('Comments', cssId.item_info+$p));
+	$(cssId.item_info+$p).html('<a></a>');
+	$(cssId.item_info+$p+' > a').html(json.comments).attr('href', json.comments);
 	$p++;
     }
     if (json.source) {
-	$('#'+cssId.item_info).append(html.feed_html('Source', cssId.item_info+$p));
-	$("#"+cssId.item_info+$p).html('<a></a>');
-	$("#"+cssId.item_info+$p+' > a').html(json.source).attr('href', json.source);
+	$(cssId.item_info).append(html.feed_html('Source', cssId.item_info+$p));
+	$(cssId.item_info+$p).html('<a></a>');
+	$(cssId.item_info+$p+' > a').html(json.source).attr('href', json.source);
 	$p++;
     }
     set_media(a);      
@@ -284,16 +294,16 @@
    /* Next Playlist item */
    var playlistNext = function() {
 
-    var current = parseInt($('#'+cssId.playing).text())+1; 
-    var max = parseInt($('#'+cssId.max).text()); 
+    var current = parseInt($(cssId.playing).text())+1; 
+    var max = parseInt($(cssId.max).text()); 
     var index = (current <= max) ? current : 1;
     playlistChange(index);
    };
    
    /* Previous Playlist item */
    var playlistPrev = function() {
-    var current = parseInt($('#'+cssId.playing).text()) -1; 
-    var max = parseInt($('#'+cssId.max).text());
+    var current = parseInt($(cssId.playing).text()) -1; 
+    var max = parseInt($(cssId.max).text());
     var index = (current >= 1) ? current  : max;
     playlistChange(index);
    };
@@ -364,117 +374,117 @@ xml tag			channel	item	where content appears in iTunes
 	});
 	
 	if (chan.title) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Title', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.title);
-	 $('#'+cssId.playlist_title).html(chan.title);
+	 $(cssId.chan_info).append(html.feed_html('Title', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.title);
+	 $(cssId.playlist_title).html(chan.title);
 	 $c++
 	}
 	if (chan.link) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Link', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html('<a></a>');
-	 $('#'+cssId.chan_info+$c+' > a').html(chan.link).attr('href', chan.link);
+	 $(cssId.chan_info).append(html.feed_html('Link', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html('<a></a>');
+	 $(cssId.chan_info+$c+' > a').html(chan.link).attr('href', chan.link);
 	 $c++;
 	}
 	if (chan.copyright) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Copyright', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.copyright);
+	 $(cssId.chan_info).append(html.feed_html('Copyright', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.copyright);
 	 $c++;
 	}
 	if (chan.author) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Author', cssId.chan_info+$c));
-         $('#'+cssId.chan_info+$c).html(chan.author);
+	 $(cssId.chan_info).append(html.feed_html('Author', cssId.chan_info+$c));
+         $(cssId.chan_info+$c).html(chan.author);
 	 $c++;
 	}
 	if (chan.block) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Block Channel', cssId.chan_info+$c));
-         $('#'+cssId.chan_info+$c).html(chan.block);
+	 $(cssId.chan_info).append(html.feed_html('Block Channel', cssId.chan_info+$c));
+         $(cssId.chan_info+$c).html(chan.block);
 	 $c++;
 	}
 	if (chan.category) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Categorys', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.category);
+	 $(cssId.chan_info).append(html.feed_html('Categorys', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.category);
 	 $c++;
 	}
 	if (chan.img) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Podcast Channel Image', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html('<img width="385" />');
-	 $('#'+cssId.chan_info+$c+' > img').attr('src', chan.img).attr('alt', chan.title);
+	 $(cssId.chan_info).append(html.feed_html('Podcast Channel Image', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html('<img width="385" />');
+	 $(cssId.chan_info+$c+' > img').attr('src', chan.img).attr('alt', chan.title);
 	 opts.poster=chan.img; 
 	 $c++;
 	}
 	if (chan.explicit) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Explicit Content', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.explicit);
+	 $(cssId.chan_info).append(html.feed_html('Explicit Content', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.explicit);
 	 $c++;
 	}
 	if (chan.complete) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Complete', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.complete);
+	 $(cssId.chan_info).append(html.feed_html('Complete', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.complete);
 	 $c++;
 	}
 	if (chan.keywords) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Keywords', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html('<ul><li>'+chan.keywords.replace(/,/g, "</li><li>")+'</li></ul>');
+	 $(cssId.chan_info).append(html.feed_html('Keywords', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html('<ul><li>'+chan.keywords.replace(/,/g, "</li><li>")+'</li></ul>');
 	 $c++;
 	}
 	if (chan.new_feed_url) {
-	 $('#'+cssId.chan_info).append(html.feed_html('New Feed Url', cssId.chan_info+$c));
-         $('#'+cssId.chan_info+$c).html('<a></a>');
-	 $('#'+cssId.chan_info+$c+' > a').html(chan.new_feed_url).attr('href',chan.new_feed_url);
+	 $(cssId.chan_info).append(html.feed_html('New Feed Url', cssId.chan_info+$c));
+         $(cssId.chan_info+$c).html('<a></a>');
+	 $(cssId.chan_info+$c+' > a').html(chan.new_feed_url).attr('href',chan.new_feed_url);
 	 $c++;
 	}
 	if (chan.email) {
 	 var name;
 	 if (chan.name) { name = chan.name; } else { name=chan.email; }
-	 $('#'+cssId.chan_info).append(html.feed_html('Owner', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html('<a></a>');
-	 $('#'+cssId.chan_info+$c+'> a').html(name).attr('href','mailto:'+chan.email);
+	 $(cssId.chan_info).append(html.feed_html('Owner', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html('<a></a>');
+	 $(cssId.chan_info+$c+'> a').html(name).attr('href','mailto:'+chan.email);
 	 $c++;
 	}
 	if (chan.subtitle) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Subtitle', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.subtitle);
+	 $(cssId.chan_info).append(html.feed_html('Subtitle', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.subtitle);
 	 $c++;
 	}
 	if (chan.desc) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Summary', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.desc);
+	 $(cssId.chan_info).append(html.feed_html('Summary', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.desc);
 	 $c++;
 	}
 	if (chan.pubDate) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Published Date', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.pubDate);
+	 $(cssId.chan_info).append(html.feed_html('Published Date', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.pubDate);
 	 $c++
 	}
 	if (chan.build) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Build Date', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.build);
+	 $(cssId.chan_info).append(html.feed_html('Build Date', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.build);
 	 $c++
 	}
 	if (chan.generator) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Feed Generator', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.generator);
+	 $(cssId.chan_info).append(html.feed_html('Feed Generator', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.generator);
 	 $c++
 	}
 	if (chan.lang) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Language', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.lang);
+	 $(cssId.chan_info).append(html.feed_html('Language', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.lang);
 	 $c++;
 	}
 	if (chan.docs) {
-	 $('#'+cssId.chan_info).append(html.feed_html('Feed Documentation', cssId.chan_info+$c));
-	 $('#'+cssId.chan_info+$c).html(chan.docs);
+	 $(cssId.chan_info).append(html.feed_html('Feed Documentation', cssId.chan_info+$c));
+	 $(cssId.chan_info+$c).html(chan.docs);
 	 $c++;
 	}
 	if (chan.webMaster) {
-	 $('#'+cssId.chan_info).append(html.feed_html('WebMaster', cssId.chan_info+$c)); 
-	 $('#'+cssId.chan_info+$c).html('<a></a>');
-	 $('#'+cssId.chan_info+$c+'> a').html(name).attr('href','mailto:'+chan.webMaster);
+	 $(cssId.chan_info).append(html.feed_html('WebMaster', cssId.chan_info+$c)); 
+	 $(cssId.chan_info+$c).html('<a></a>');
+	 $(cssId.chan_info+$c+'> a').html(name).attr('href','mailto:'+chan.webMaster);
 	 $c++;
 	}	
-	$('#'+cssId.chan_info).append(html.feed_html('Feed URL', cssId.chan_info+$c));
-        $('#'+cssId.chan_info+$c).html('<a></a>');
-	$('#'+cssId.chan_info+$c+' > a').html('Open Feed').attr('href', $url);
+	$(cssId.chan_info).append(html.feed_html('Feed URL', cssId.chan_info+$c));
+        $(cssId.chan_info+$c).html('<a></a>');
+	$(cssId.chan_info+$c+' > a').html('Open Feed').attr('href', $url);
 	$c++;
       });
       $(d).find('item').each(function(){
@@ -531,19 +541,19 @@ xml tag				channel	item	where content appears in iTunes
        }
        
        if (i == 1){ first = { url: item_info.url, name: item_info.title }; }
-       $("#"+cssId.pcast).append( html.playlist_item(pitem, item_info.url, item_info.title, i) );
-       $("#"+pitem).attr('json', JSON.stringify(item_info, null, 2));
-       $("#"+pitem).click(function(event) {
+       $(cssId.pcast).append( html.playlist_item(pitem, item_info.url, item_info.title, i) );
+       $(pitem).attr('json', JSON.stringify(item_info, null, 2));
+       $(pitem).click(function(event) {
         event.preventDefault();
 	
         var a = $(this).attr("href");
         var index = $(this).attr('tabindex');
         playlistChange(index);
        });
-       $('#'+cssId.max).text(i);
+       $(cssId.max).text(i);
        if (first.url) {
-	$('#'+cssId.playing).text('1');
-        $('#'+cssId.track).html(first.name); 
+	$(cssId.playing).text('1');
+        $(cssId.track).html(first.name); 
         playlistChange('1'); 
        }
        i++;
@@ -554,43 +564,43 @@ xml tag				channel	item	where content appears in iTunes
 
    /* Set Media to play */
    var set_media = function(url) { 
-    $("#"+cssId.jPlayer).jPlayer("setMedia", media(url)).jPlayer("play"); 
+    $(cssId.jPlayer).jPlayer("setMedia", media(url)).jPlayer("play"); 
     fix_jplayer();
    };
    
    /* Stop jPlayer */
-   var no_play = function() { $("#"+cssId.jPlayer).jPlayer("stop"); }
+   var no_play = function() { $(cssId.jPlayer).jPlayer("stop"); }
  
    // jplayer setup, plays the first video
    var jplayer = function() {
-    $("#"+cssId.jPlayer).jPlayer({
-     jPlayer: "#"+cssId.jPlayer,  
-     cssSelectorAncestor: "#"+cssId.remote,
+    $(cssId.jPlayer).jPlayer({
+     jPlayer: cssId.jPlayer,  
+     cssSelectorAncestor: cssId.remote,
      ready: function () {
       // RSS feeds must be sent as xml/text for IE or jQuery.get() will not work!
       if (!opts.feeds) {
        $('link[type="application/rss+xml"]').each(function () { p++;
-        $('#'+cssId.podcasts).append(html.podcast_item(p, $(this).attr('title'), $(this).attr('href')));
+        $(cssId.podcasts).append(html.podcast_item(p, $(this).attr('title'), $(this).attr('href')));
        }); 
       } else {
-       opts.feeds.each(function (k, v) { p++; $('#'+cssId.podcasts).append(html.podcast_item(p, k, v)); });   
+       opts.feeds.each(function (k, v) { p++; $(cssId.podcasts).append(html.podcast_item(p, k, v)); });   
       }
       // start the work of loading in menu plain items
       if (opts.PlayPlaylist > p) { play=p; }
       else if (opts.PlayPlaylist < 1){ play=1; }
       else { play=opts.PlayPlaylist; }
-      set_title($('#'+cssId.play+play).text());
-      playlist($('#'+cssId.play+play).attr('href'));
-      $('#'+cssId.menu+' > ul > li > a').click(function(event) { event.preventDefault(); fix_jplayer(); playlist($(this).attr('href')); });
+      set_title($(cssId.play+play).text());
+      playlist($(cssId.play+play).attr('href'));
+      $(cssId.menu_items).click(function(event) { event.preventDefault(); fix_jplayer(); playlist($(this).attr('href')); });
       $(cssId.full).click(function(event)  { event.preventDefault(); fix_jplayer(); set_fullscreen(); });
       $(cssId.normal).click(function(event){ event.preventDefault(); fix_jplayer(); set_normal(); });
       $(cssId.next).click(function(event)  { event.preventDefault(); playlistNext(); fix_jplayer();  });
       $(cssId.prev).click(function(event)  { event.preventDefault(); playlistPrev(); fix_jplayer(); });
-      $(cssId.controls+' > li > a').click(function(e){ e.preventDefault(); fix_jplayer(); });
+      $(cssId.controls_act).click(function(e){ e.preventDefault(); fix_jplayer(); });
       fix_jplayer();
       set_normal();
      },
-     play: function()  { $("#"+cssId.jPlayer).jPlayer("play"); fix_jplayer(); },
+     play: function()  { $(cssId.jPlayer).jPlayer("play"); fix_jplayer(); },
      ended: function() { playlistNext(); fix_jplayer(); },
      pause: function() { fix_jplayer(); },
      mute: function()  { fix_jplayer(); },
@@ -605,23 +615,30 @@ xml tag				channel	item	where content appears in iTunes
    /* reset jPlayer UI */
 //################################################################################################
    var reset_ui =function() {
-     $('#'+cssId.track).html('');
-     $("#"+cssId.pcast).empty();
-     $('#'+cssId.chan_info).empty();
-     $('#'+cssId.item_info).empty();
-     $('#'+cssId.playlist_title).html('Playlist');
-     $('#'+cssId.playing).html('0');
-     $('#'+cssId.max).html('0');
+     $(cssId.track).html('');
+     $(cssId.pcast).empty();
+     $(cssId.chan_info).empty();
+     $(cssId.item_info).empty();
+     $(cssId.playlist_title).html('Playlist');
+     $(cssId.playing).html('0');
+     $(cssId.max).html('0');
    }
-   var reset = function() { $("#"+cssId.jPlayer).jPlayer("destroy"); };
+   var reset = function() { $(cssId.jPlayer).jPlayer("destroy"); };
 // ################################################################################################   
    /* boot strap the player for client useage */
-   $('#'+cssId.podcasts).empty();
-   $('#'+cssId.playlist).empty();
-   $('#tabs').tabs({
-	collapsible: true
+   $(cssId.podcasts).empty();
+   $(cssId.playlist).empty();
+   $($id).addClass('normal').show();
+   $(cssId.chan_info_box).dialog({ title: "Channel Details", autoOpen: false, width: 600, height: 600, zindex: 999999 });
+   $(cssId.item_info_box).dialog({ title: "Media Information", autoOpen: false, width: 600, height: 600, zindex: 999999 });
+   $(cssId.open_chan_info).click(function(e) {
+	e.preventDefault();
+	$(cssId.chan_info_box).dialog("open");
    });
-   $('#'+$id).addClass('normal').show();
+   $(cssId.open_item_info).click(function(e) {
+	e.preventDefault();
+	$(cssId.item_info_box).dialog("open");
+   });
    jplayer(); // all the work is done when jPlayer is ready
    // return each to work with jQuery
    return this.each(function() {  var o = opts; var obj = $(this); var items = $("a", obj);  });
@@ -641,3 +658,4 @@ xml tag				channel	item	where content appears in iTunes
   });
  };
 })(jQuery);
+

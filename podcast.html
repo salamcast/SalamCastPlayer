@@ -1,5 +1,4 @@
-<div id="CastPlayer">
- <div id="jquery_jplayer_1" ></div>
+<div id="CastPlayer"> 
  <div id="holzremote" >
   <div class="jp-gui " style="display: block; ">
    <div class="jp-video-play" style="display: none;"><a href="javascript:;" class="jp-video-play-icon" tabindex="1">play</a></div>
@@ -33,36 +32,30 @@
   </div>
   <div class="jp-no-solution" style="display: none; "></div>
  </div>
+  <div id="jquery_jplayer_1" ></div>
  <!-- Channel/item info and playlists -->
- <div id="tabs">
-  <ul>
-   <li><a href="#main_box">Now Playing </a></li>
-   <li><a href="#chan_info_box">Channel Details</a></li>
-   <li><a href="#item_info_box">Item Details</a></li>
-  </ul>
-  <div id="main_box" >
-   [ <a href="#" id="rss" tabindex="1">RSS</a> | <a href="#" id="itunes" tabindex="1">iTunes</a> | <a href="#" id="pcast_link" tabindex="1">Podcast</a> ]<br />
-   
+
+
+  <div id="main_box" class="ui-widget ui-widget-content ui-corner-all">
+   <div id="menu" >
+    <h3 class="ui-widget-header ui-corner-all">Channels    <a href="#rss" id="rss" tabindex="1">[ RSS ]</a> <a href="#itunes" id="itunes" tabindex="1">[ iTunes ]</a> <a href="#pcast" id="pcast_link" tabindex="1">[ Podcast ]</a> <a href="#" id="open_chan_info">[ open ]</a></h3>
+    <ul id="ajax"><li><a id="play1" href="#"></a></li></ul>
+   </div>
    <div id="playlist" >
-    <h3 class="ui-widget-header ui-corner-all">Playlist - <span id="num">0</span> of <span id="max">0</span></h3>
+    <h3 class="ui-widget-header ui-corner-all">Playlist - <span id="num">0</span> of <span id="max">0</span> <a href="#" id="open_item_info">[ open ]</a></h3>
     <ul id="pcast"><li><a id="podcast_item_0" href="#" tabindex="0"></a></li></ul>
    </div>
-   <div id="menu" >
-    <h3 class="ui-widget-header ui-corner-all">Channels</h3>
-    <ul id="ajax"><li><a id="play1" href="#"></a></li></ul>
-   </div>      
   </div>
-  <div id="chan_info_box" class="ui-widget ui-widget-content ui-corner-all">
-   <h3 class="ui-widget-header ui-corner-all">Channel Details</h3><br />
+  <div id="chan_info_box" >
    <div id="channel_info">
     <h3 class="ui-widget-header ui-corner-all">Title</h3><div id="chan_title"></div>
    </div>
   </div> 
-  <div id="item_info_box" class="ui-widget ui-widget-content ui-corner-all">
-   <h3 class="ui-widget-header ui-corner-all">Media Info</h3><br />
+  <div id="item_info_box" >
    <div id="podcast_info">
     <h3 class="ui-widget-header ui-corner-all">Feed Item Info</h3><div ></div>
    </div>
   </div>    
- </div>
+
+
 </div>
