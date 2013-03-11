@@ -1,0 +1,70 @@
+body { background-color: black; margin: 0; padding: 0; color: white; }
+div, span, p, img, a { margin: 0; padding: 0; color: white; font-size: 12px; }
+h1, h2, h3, h4, h5, li { margin: 0; padding: 0; }
+ul { margin-left: 7px; padding-left: 9px;}
+
+h3 { font-size: 16px; padding: 4px 8px; display: block;  width: 95%; }
+ 
+.clicked { background-color: white; color: red !important; border-width: 1px; border-style: inset;}
+
+#CastPlayer { height: 0; width:0;   margin: 0; padding: 0; display: none;}
+/* Normal mode */
+#CastPlayer.normal { display: block;  height: 100%;  width: 100%; background-color: black; z-index: 0; position: relative; left: 0; top: 0; margin: 0;  }
+#CastPlayer.normal #main_box  {  position: absolute; top:5px; left:  0px;  width: 388px;  display: block; padding: 0px; margin: 0px;}
+#CastPlayer.normal #jquery_jplayer_1 {  width: 854px; height:480px; position: absolute; top: 60px; left: 395px; overflow: hidden; }
+#CastPlayer.normal #jquery_jplayer_1 object, #CastPlayer.normal #jquery_jplayer_1 video, #CastPlayer.normal #jquery_jplayer_1 img { width:100% !important; height:100% !important; margin: 0; padding: 0; position: relative; top: 0px; left:  0px; }
+#CastPlayer.normal #holzremote { position: absolute; top:5px; left: 395px; width: 854px; height: 49px; text-align: center; padding: 0px; margin: 0px; }
+
+/* Full Screen */
+#CastPlayer.full { display: block; position: absolute; top: 0; left: 0; height: 100%; width:100%; margin: 0; padding: 0;background-color: black;  text-align: center; overflow:hidden; z-index: 991000; }
+#CastPlayer.full #main_box, #CastPlayer.full a.jp-full-screen  { display: none; }
+#CastPlayer.full #jquery_jplayer_1 { position: absolute; top: 0px; left: -15px; height: 100%; width:105%; margin: 0; padding: 0;  text-align:left; }
+#CastPlayer.full #jquery_jplayer_1 object { width:100%; height:97%; margin: 0; padding: 0; z-index: 11004;}
+#CastPlayer.full #jquery_jplayer_1 video { width:100%; height:97%; margin: 0; padding: 0; z-index: 11004;}
+#CastPlayer.full #holzremote { position: absolute; bottom: 5px;  height: 45px; width:100%;  padding: 0;  z-index: 1001; }
+
+
+
+/* Menu  */
+#main_box > h3 { margin: 6px; padding: 6px; width: 97%;}
+
+#itunes, #rss, #pcast_link { float: right; }
+
+#menu, #playlist {  text-align: left;  margin-left: 0px;  margin-bottom: 0px; overflow: none; z-index: 0;  padding: 2px; width: 100% ; float:left;}
+
+
+
+ul > li {  text-align: left; margin-bottom: 3px; margin-top: 3px; padding: 2px;}
+ul > li > a { font-size: 14px !important; text-align: left;   margin: 1px; padding: 1px;}
+ul > li > a:hover,a:hover, a:hover span { font-size: 14px !important; color: yellow;  margin: 1px; padding: 1px; }
+
+
+/* ---------------------- */
+.jp-playlist-current, .jp-playlist-current a { color: yellow;  }
+/* ---------------------- */
+
+
+
+/* */
+ .jp-interface { z-index: 999999;  position: absolute; bottom:0px; left: 0px; width: 100%; height: 100%;  text-align: center; vertical-align: middle; background-color: none; }
+ .jp-interface h3 { font-size: 10px; height: 10px; margin-top: 10px; width: 98%;}
+ .jp-interface h3 span { width: 200px; overflow-x: hidden; }
+ .jp-interface ul { position: absolute; top:12px; left: 0px; margin-left: 200px;  list-style: none; text-align: center; vertical-align: middle; }
+ .jp-interface ul li { float: left; text-align: center; vertical-align: middle; display: inline; }
+ .jp-interface ul li a { height: 16px;  margin-right: 10px; margin-left: 10px;}
+ .jp-interface ul li a:hover { height: 16px;  width: auto; background-image: none; text-indent: 0px}
+
+ .jp-interface  .jp-progress { position: absolute; top:0px; left: 0px; width: 100%; height: 9px; overflow:hidden; }
+ .jp-interface  .jp-progress .jp-seek-bar { position: absolute; top:0px; left: 0px;  width: 100%; height:100%;cursor: pointer; }
+
+/* */
+div.jp-volume-bar { overflow:hidden; width: 80px; height: 6px; cursor: pointer; margin-top: 5px; margin-right: 5px; margin-left: 5px;}
+
+div.jp-volume-bar-value { width:0px; height:5px; }
+
+/* */
+
+div.jp-play-bar { width:0px; height:100%; }
+
+
+

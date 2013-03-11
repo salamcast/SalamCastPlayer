@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+ <head>
+  <title>SalamCast Podcast Player</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Language" content="en-us" />
+  
+  <!-- Load Javascript and CSS files to this basic HTML skel layout. -->
+  <!-- let you're JavaScript and CSS build and manage the UI -->
+  <link class="css" type="text/css" href="podcast.css" rel="stylesheet" />
+<link class="css" type="text/css" href="css/podcast.css" rel="stylesheet" />
+<script type="text/javascript" src="js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.8.21.custom.min.js"></script>
+<script type="text/javascript" src="js/jquery.touch-punch.js"></script>
+<script type="text/javascript" src="js/JSON.js"></script>
+<script type="text/javascript" src="js/jquery.jplayer.js"></script>
+<script type="text/javascript" >
+ jQuery(function ($) {
+    $.ajax({
+        url: './podcast.json',
+        type: 'GET',
+        dataType: 'json',
+        success: function(result) {
+            $.each(result, function(i, r) {
+                $('head').append('<link title="'+result[i].title+'" href="'+result[i].href+'" type="application/rss+xml" rel="alternate" />');
+            });
+            $('#CastPlayer').SalamCast({
+                swf: "./js/",
+                jPlayerSolution: "flash, html",
+                debug: false
+            });
+
+        },
+    });
+});
+</script>
+<script type="text/javascript" src="js/holzcast.js"></script>
+
+ </head>
+ <body>
+  <div id="CastPlayer"> 
+   <div id="holzremote" >
+    <div class="jp-gui " style="display: block; ">
+     <div class="jp-video-play" style="display: none;"><a href="javascript:;" class="jp-video-play-icon" tabindex="1">play</a></div>
+     <div class="jp-interface ui-widget ui-widget-content ui-corner-all" >
+      <div class="jp-progress ">
+       <div class="jp-seek-bar  ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all" style="width: 90%;"><div class="jp-play-bar  ui-slider-range ui-widget-header ui-slider-range-min" ></div></div>
+      </div>
+      <h3 class="ui-widget-header ui-corner-all">
+       Now Playing:<!-- <span id="title">Playlist</span> - --> <span id="track_name_txt"></span> @<div style="display: inline; " class="jp-current-time">00:00</div> of <div style="display: inline; " class="jp-duration">99:99</div>
+      </h3>
+      <ul class="jp-controls ">
+       <li><a href="javascript:;" class="jp-previous ui-icon ui-icon-seek-prev" tabindex="1">Prev</a></li>
+       <li><a href="javascript:;" class="jp-play ui-icon ui-icon-play" tabindex="1" style="display: block;">Play</a></li>
+       <li><a href="javascript:;" class="jp-pause  ui-icon ui-icon-pause" tabindex="1" style="display: none;">Pause</a></li>
+       <li><a href="javascript:;" class="jp-next  ui-icon ui-icon-seek-next" tabindex="1">Next</a></li>
+       <li><a href="javascript:;" class="jp-stop  ui-icon ui-icon-stop" tabindex="1">Stop</a></li>
+       <li><a href="javascript:;" class="jp-full-screen ui-icon ui-icon-arrow-4-diag" tabindex="1" title="full screen" style="display: block; ">Full</a></li>
+       <li><a href="javascript:;" class="jp-restore-screen ui-icon ui-icon-newwin" tabindex="1" title="restore screen" style="display: none; ">Restore</a></li>
+       <li><a href="javascript:;" class="jp-repeat ui-icon ui-icon-refresh" tabindex="1" title="repeat">Repeat</a></li>
+       <li><a href="javascript:;" class="jp-repeat-off ui-icon ui-icon-arrowthick-1-e" tabindex="1" title="repeat off" style="display: none; ">Off</a></li>
+       <li><a href="javascript:;" class="jp-mute ui-icon ui-icon-volume-off" tabindex="1" title="mute">Mute</a></li>
+       <li><a href="javascript:;" class="jp-unmute ui-icon ui-icon-volume-on" tabindex="1" title="unmute" style="display: none; ">unmute</a></li>
+       <li>
+        <div class="jp-volume-bar ui-slider ui-slider-horizontal ui-widget ui-widget-content ui-corner-all">
+         <div class="jp-volume-bar-value ui-slider-range ui-widget-header ui-slider-range-min" style="width: 80%;"></div>
+        </div>
+       </li>
+       <li><a href="javascript:;" class="jp-volume-max  ui-icon ui-icon-volume-on" tabindex="1" title="max volume">Max</a></li>
+      </ul>
+     </div>
+    </div>
+    <div class="jp-no-solution" style="display: none; "></div>
+   </div>
+   <div id="jquery_jplayer_1" ></div>
+   <!-- Channel/item info and playlists -->
+   
+   
+   <div id="main_box" class="ui-widget ui-widget-content ui-corner-all">
+    <div id="menu" >
+     <h3 class="ui-widget-header ui-corner-all"><a href="#" id="open_chan_info">Channels </a>    <a href="#pcast" id="pcast_link" tabindex="1">[ Podcast ]</a> <a href="#rss" id="rss" tabindex="1">[ RSS ]</a> <a href="#itunes" id="itunes" tabindex="1">[ iTunes ]</a>  </h3>
+     <ul id="ajax"><li><a id="play1" href="#"></a></li></ul>
+    </div>
+    <div id="playlist" >
+     <h3 class="ui-widget-header ui-corner-all"><a href="#" id="open_item_info">Playlist - <span id="num">0</span> of <span id="max">0</span></a></h3>
+     <ul id="pcast"><li><a id="podcast_item_0" href="#" tabindex="0"></a></li></ul>
+    </div>
+   </div>
+   <div id="chan_info_box" >
+    <div id="channel_info">
+     <h3 class="ui-widget-header ui-corner-all">Title</h3><div id="chan_title"></div>
+    </div>
+   </div> 
+   <div id="item_info_box" >
+    <div id="podcast_info">
+     <h3 class="ui-widget-header ui-corner-all">Feed Item Info</h3><div ></div>
+    </div>
+   </div>    
+   
+   
+  </div>
+ </body>
+</html>
